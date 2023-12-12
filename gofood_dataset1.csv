@@ -1,0 +1,693 @@
+placeID,merchant_name,merchant_area,category,product,price,description
+A001,"330 Kopi, Ciledug",jakarta,Jajanan/Minuman,Hot Almara Kopi (kopi Susu Gula Aren),20000,Sajian Kopi Susu Gula Aren Yang Berbeda Dari Khalayak Umum
+A002,"Abe Steak, Cibubur",jakarta,Barat,Hemat Berdua,70000,2 Chicken Steak + 2 Es Jeruk
+A003,"Abuba Steak, Cikarang",jakarta,Barat,Tas ABUBA ( Max 5 Box ),13200,
+A004,Aneka Gorengan Siaga,jakarta,Jajanan/Minuman,bakwan Sayur,1500,gorengan Bakwan +cabe Rawit
+A005,Arangsimpur,jakarta,Bakmi/bakso/soto,Tiam MIE,34000,Mie Manis
+A006,Ayam Trolok,jakarta,Ayam & bebek/Seafood/daging,Ayam Full,100000,
+A007,BABAKARAN BUNDA DAFA,jakarta,Jajanan/Minuman,Sosis Kecil Bakar/ Goreng,6000,tersedia Rasa Barbeque/Pedas
+A008,"Bakerman, SCBD",jakarta,Jajanan/Minuman,275 Gr Tenderloin Beef With Truffle Sauce,626200,
+A009,Bakmi Kun,jakarta,Bakmi/bakso/soto,Bakmi Istimewa (3 Toppings),49000,"Bakmi Dengan Topping Bebek Peking, Ayam Kampung, Ayam Cincang (Tanpa Pangsit)"
+A010,Bakmi Lopui 93,jakarta,Bakmi/bakso/soto,Bakmi Rebus Kalimantan,25000,
+A011,"Bakso Titoti, Parung",jakarta,Bakmi/bakso/soto,Ayam Kampung Goreng Kremes,31500,
+A012,"Banzai!, Bogor Utara",jakarta,Aneka nasi,Happiness Bento Set 1,87890,Double Hamburg Curry Rice + Berry Lychee Yakult
+A013,"Sosis Bakar By Basis.Kuy, Intercon",jakarta,Jajanan/Minuman,Bakso Bakar,3100,Bakso Yang Di Bakar Dengan Cinta Yang Membuat Lidah Bergoyang
+A014,"Bebek Boedjang, BSD",jakarta,Ayam & bebek/Seafood/daging,Bebek Goreng,35850,Potongan bebek yang digoreng
+A015,"Boonsikdang, Hublife Jakarta",jakarta,Jajanan/Minuman,Original Topokki,67320,Original Topokki
+A016,"Bunga Bakery, Cibinong",jakarta,Roti,Lapis Original,39000,
+A017,"Bunga Bakery, Depok",jakarta,Roti,Lapis Black Forest,30000,
+A018,"Burger Bros, Bintaro",jakarta,Jajanan/Minuman,BroBagi 1 - The Chicken Burger Meal,130960,"2 She Caught the Chicken Burger, 1 Es Matcha Mindfulness, 1 Es Cokelat Cozy"
+A019,"Burger Bros, Ciledug",jakarta,Jajanan/Minuman,BroBagi 1 - The Chicken Burger Meal,130960,2 She Caught the Chicken Burger + 1 Es Matcha Mindfulness + 1 Es Cokelat Cozy
+A020,Burger Naura,jakarta,Jajanan/Minuman,"Paket, 2 Burger, Kentang, Sosis, Otak Otak",20000,"2 Burger, Daging Sapi, Kentang, Sosis Otak Otak, Tambah Mayonaise Dan Saus"
+A021,C7HomeCoffee,jakarta,Jajanan/Minuman,Espresso,12000,Sari Kopi
+A022,Cafe OTSS,jakarta,Jajanan/Minuman,CAFE LATTE ICE (HOT CUP SOLD OUT),40000,"Double Espresso, Fresh Milk"
+A023,Cake Pandeglang Cake,jakarta,Roti,BF Love Cok Tempel Uk 20cm,155000,
+A024,"Chateraise, Senayan City",jakarta,Jajanan/Minuman,Matcha Frappe Latte,65000,
+A025,CIATER BEACH,jakarta,Barat,Iga Asam Pedas,86250,Iga Asam Pedas Dengan Perpaduan Belimbing Wuluh Dan Bumbu Rempah-rempah
+A026,"Cimory Condet, Balekambang",jakarta,Jajanan/Minuman,Cimory Yogurt Drink Blueberry,9500,Susu Cimory Yogurt Drink Rasa Blueberry 250ML
+A027,"Cinepolis, Pondok Kelapa",jakarta,Jajanan/Minuman,POCOBANA 1,50000,Reguler Popcorn Banana Milk + 1 drink
+A028,Coffee First,jakarta,Jajanan/Minuman,Hot Americano,25000,One Shot Espresso (Arabica) + One Cup Boiled Water
+A029,"Corndog Doona, Pinang",jakarta,Jajanan/Minuman,Corndog Original Full Mozarella,18000,Full Mozarella Dibalut Dengan adonan Roti Dan Bahan Pilihan Serta Tambahan Toping Saus sambal dan mayonaise
+A030,Corndog Mozarella,jakarta,Jajanan/Minuman,Corndog Mozarella Mentahan,14500,Corndog Isi Full Mozarella Mentahan Tinggal Goreng Di Rumah
+A031,"Cotta Coffee, Jatiwaringin",jakarta,Jajanan/Minuman,Paket Berlimas,80000,Paket Es Kopi Susu Ber5 Bayar 4 Ajah
+A032,Crackling,jakarta,Aneka nasi,Gochu Pork Bowl,69000,Gochujang Pork Belly
+A033,"Dapur Aliqa, Gembong",jakarta,Bakmi/bakso/soto,Bakso Iga Selimut,40000,"Bakso Selimut,Iga,Dan Kikil"
+A034,"Dapur Cokelat, Cibubur",jakarta,Jajanan/Minuman,Opera,100000,Ukuran 10 x 10cm
+A035,"Dapur Cokelat, Ciputat",jakarta,Jajanan/Minuman,Buku Dapur Cokelat Bercerita,115000,Hard Cover
+A036,"Dapur Cokelat, Ciracas",jakarta,Jajanan/Minuman,Buku Dapur Cokelat Bercerita,115000,Hard Cover
+A037,"Dapur Cokelat, Depok",jakarta,Jajanan/Minuman,Opera,100000,Ukuran 10 x 10cm
+A038,"Dear Butter, Pakubuwono",jakarta,Jajanan/Minuman,3 Pcs Croffle Original,35000,3 Pcs Croffle Orgininal Only
+A039,"Dough Lab, Senopati",jakarta,Jajanan/Minuman,The Og Box (20 Pcs),143000,Bite-sized chewy chocolate chip cookies (20 pcs / box)
+A040,"DuriAnd, Bogor",jakarta,Jajanan/Minuman,Durian Kupas Medan 750-900 GR,144000,
+A041,"Emados Shawarma, Condet",jakarta,Ayam & bebek/Seafood/daging,Roasted Chicken Veggies,139000,"Ayam Roasted Combinasi dengan jagung,Buuncis,Kentang,worte dan tambahan Mestpoteto,+ Sambal +Bbq"
+A042,"Emados Shawarma, Depok",jakarta,Ayam & bebek/Seafood/daging,Roasted Chicken Veggies,139000,"Ayam Roasted Combinasi dengan jagung,Buuncis,Kentang,worte dan tambahan Mestpoteto,+ Sambal +Bbq"
+A043,"Faasos, Bintaro",jakarta,Jajanan/Minuman,Trio Wrap Favorite,105000,"Our local best-sellers! 1 Ayam Geprek Wrap, 1 Beef Kebab Wrap, and 1 Chicken Mayo Wrap"
+A044,"Faasos, Blok M",jakarta,Jajanan/Minuman,Trio Wrap Favorite,105000,"Our local best-sellers! 1 Ayam Geprek Wrap, 1 Beef Kebab Wrap, and 1 Chicken Mayo Wrap"
+A045,"FamilyMart, Sequis Tower",jakarta,Jajanan/Minuman,KSK 1L + Premium Coklat 1L + Pao Coklat (4pcs),150000,
+A046,"farm.girl, SCBD",jakarta,Jajanan/Minuman,TC,84000,Fluffy Soft Scrambled Eggs. Cheddar Cheese. Caramelized Onion. Chives. Sriracha Mayo. Toasted Brioche Bun
+A047,"FlapnJac, Setiabudi Barat",jakarta,Jajanan/Minuman,FLAPnJAC Pop Up Hamper,130000,4x FLAPnJAC tray-bakes + 1 x Pop Up Card + 1x Hamper Box + 1 x Personalised Card
+A048,"Fore Coffee, Jatiwaringin",jakarta,Jajanan/Minuman,Bundle Caramel Manuka Macchiato & Caramel Praline Macchiato,64000,
+A049,Gelato House Cafe ,jakarta,Jajanan/Minuman,Small ( 1 Rasa ),28750,"Size Small, Bebas Pilih 1 Rasa Dari Varian Yg Tersedia. Saat Gojek Tiba Anda Dapat Memilih rasa Yg Ada (Disarankan Apabila Anda Order Gelato Maksimal Jarak Anda Dengan Cafe Kami 30 Menit, Agar Terjaga Rasa Dan Kualiatas Gelato)"
+A050,"Genkaya, Pabuaran",jakarta,Jajanan/Minuman,Saikoro,15000,Original / Teryaki / Lada Hitam / Genkaya.
+A051,"Geprek Bensu, Karawang",jakarta,Ayam & bebek/Seafood/daging,Romantis 1,57750,3 ayam sambal original lv 0-10
+A052,Gianni's Pizzeria,jakarta,Barat,Half Cheesist Christ! N Half?,350000,Choose Ur Best Favorite Flavor To Pair Up With Our Cheesist Chris!
+A053,"Golden Lamian, Jatiwaringin",jakarta,Bakmi/bakso/soto,Value 1,65000,Nasi Hainan Ayam Goreng + Ocha
+A054,"GoSteak, Tj Priok",jakarta,Aneka nasi,Gongso Ayam,27500,Daging Ayam yang diracik dengan saus gongso khas GoSteak
+A055,"Greenly, Senopati",jakarta,Jajanan/Minuman,Oat Crusted Teriyaki Chicken Plate,59000,"(566 Cal) Crispy oat-breaded chicken, furikake tofu, kani salad, sous-vide egg, leafy greens, brown rice, teriyaki sauce"
+A056,Groen Kopi,jakarta,Jajanan/Minuman,Manggo Juice,31250,Fresh Manggo
+A057,"GUREE, Senopati",jakarta,Ayam & bebek/Seafood/daging,Truffle Gyudon (US Beef),53000,Daging sapi premium U. S. disajikan dengan telur mata sapi dan truffle oil. (Di Luar Alat Makan Steril)
+A058,Hatchi,jakarta,Ayam & bebek/Seafood/daging,Nasi Campur,32000,
+A059,have a treat,jakarta,Jajanan/Minuman,Iced Creamy Coffee,36750,A single shot Espresso with Sweet Condensed Milk and Creamer.
+A060,"Hedon Cafe, Sukatani",jakarta,Ayam & bebek/Seafood/daging,Milkshake,11500,"Varian : Greentea , coklat , cappucino , durian , oreo , strawberry , bubble gum , mangga , alpukat , red velvet"
+A061,"Hey Kafe, Cipondoh",jakarta,Jajanan/Minuman,Strawbery Cheese Cake Hey-Shake,28500,
+A062,"Hey Kafe, Jatiwaringin",jakarta,Jajanan/Minuman,Strawbery Cheese Cake Hey-Shake,28500,
+A063,"Hoghock, Greenlake City",jakarta,Aneka nasi,Christmast Hampers By Hoghock,290000,Xmas Hampers isi 2pcs Pork Shoulder Meat + Xmas Accessories + Pita + Kartu Ucapan. Silahkan isi nama pengirim dan penerima di notes.
+A064,"HokBen, Bogor Yasmin",jakarta,Aneka nasi,2 pcs Ayam Goreng + Nasi + Ice Lemon Tea,57000,2 pcs Ayam Goreng + Nasi + Ice Lemon Tea
+A065,"HokBen, Kitchen Otista",jakarta,Aneka nasi,2 pcs Ayam Goreng + Nasi + Ice Lemon Tea,57000,2 pcs Ayam Goreng + Nasi + Ice Lemon Tea
+A066,"Holland Bakery, Ciomas",jakarta,Roti,Roti Coklat,9700,
+A067,"Holywings Backyard, Kemang",jakarta,Jajanan/Minuman,Crispy Hot Fried Chicken Wings,82500,
+A068,ITAEWON CLASS,jakarta,Jajanan/Minuman,Fried Chiken,118000,Ayam 1 Ekor +saos+lobak
+A069,JACK DONUT,jakarta,Jajanan/Minuman,Kacang,3500,
+A070,Jakarta Cheese Factory,jakarta,Roti,Chiffon Cheese,40000,kue chiffon cheese cake
+A071,Kaka Udon,jakarta,Bakmi/bakso/soto,Tori Katsu Sansho Abura Udon,30000,Udon + AYAM KATSU + MINYAK SANSHO (Pedas)
+A072,"KAMPUNG TELAGA,  Ciracas",jakarta,Bakmi/bakso/soto,Gurame Bakar,90000,
+A073,"Kancha, Duri Kosambi",jakarta,Jajanan/Minuman,Add Pearl,4000,Tambahan Pearl
+A074,"Kebab Asap, Sunter",jakarta,Jajanan/Minuman,Creamy Mayo (Small),15000,"Varian rasa kebab asap yang memadukan CREAMYnya rasa MAYO dengan MANIS nan ALAMInya MADU kedalam JUICYnya daging SEI SAPI khas Kebab Asap. Pas banget nih buat kamu yang suka rasa GURIH-GURIH CREAMY (Netto : 56gr,18cm)"
+A075,"Kebab Bosman, Ciputat",jakarta,Jajanan/Minuman,Special Kebab Original Jumbo,13000,Menggoyang lidahmu tak terkira isiannya
+A076,"Kebab Bosman, Gandul",jakarta,Jajanan/Minuman,Special Kebab Original Jumbo,13000,Menggoyang lidahmu tak terkira isiannya
+A077,Kebab Lumer,jakarta,Jajanan/Minuman,Kebab Lumer Beef slice large,25000,Kebab dengan saus Garlic chees dan pasta makaroni dengan isi daging slice yang di bakar dengan bumbu sukiyaki
+A078,"Kebab Ngidam, Meruya",jakarta,Jajanan/Minuman,Kebab Daging Sapi,31250,
+A079,"Kebon Samping, Cibinong",jakarta,Ayam & bebek/Seafood/daging,Pisang Bakar,13000,Pisang Uli Bakar ditaburi coklat meses dan ditaburi keju susu. . .
+A080,"Kebuli Jordan, Permata",jakarta,Jajanan/Minuman,Paket Ayam Paha Bosgil,30000,Nasi Ayam Sambal
+A081,Kedai Coger Senayan,jakarta,Jajanan/Minuman,Agus Kerung,24000,Sanquick Orange + Syrup Mango + Susu Full Cream
+A082,Kedai Santai,jakarta,Jajanan/Minuman,Thai Tea Milk,8000,Thai Tea Dengan Cream Susu Murni
+A083,"Keikpop, Ciledug",jakarta,Roti,ChocoTown Cha Cha Cha,65000,Berikan cake cokelat dengan caramel bites ini buat teman kamu yang baiknya kayak Hong Du Sik alias selalu siap buat menolong!
+A084,"Keikpop, Ciputat",jakarta,Roti,Split Cake,75000,"Lezatnya Chocolate Cake dengan Oreo Cheese Mousse & Vanilla Cake dengan Strawberry Mousse bikin yeorobun berasa dapet hadiah 45,6 miliar₩. Ngebayangin nggak tuh setebal apa uangnya?"
+A085,"Keikpop, Harapan Indah",jakarta,Roti,Split Cake,75000,"Lezatnya Chocolate Cake dengan Oreo Cheese Mousse & Vanilla Cake dengan Strawberry Mousse bikin yeorobun berasa dapet hadiah 45,6 miliar₩. Ngebayangin nggak tuh setebal apa uangnya?"
+A086,"Keikpop, Kebon Jeruk",jakarta,Roti,Split Cake,75000,"Lezatnya Chocolate Cake dengan Oreo Cheese Mousse & Vanilla Cake dengan Strawberry Mousse bikin yeorobun berasa dapet hadiah 45,6 miliar₩. Ngebayangin nggak tuh setebal apa uangnya?"
+A087,"Keikpop, Mangga Besar",jakarta,Roti,Split Cake,75000,"Lezatnya Chocolate Cake dengan Oreo Cheese Mousse & Vanilla Cake dengan Strawberry Mousse bikin yeorobun berasa dapet hadiah 45,6 miliar₩. Ngebayangin nggak tuh setebal apa uangnya?"
+A088,"Keikpop, Pajajaran Bogor",jakarta,Roti,Split Cake,75000,"Lezatnya Chocolate Cake dengan Oreo Cheese Mousse & Vanilla Cake dengan Strawberry Mousse bikin yeorobun berasa dapet hadiah 45,6 miliar₩. Ngebayangin nggak tuh setebal apa uangnya?"
+A089,"Keikpop, Radio Dalam",jakarta,Roti,Split Cake,75000,"Lezatnya Chocolate Cake dengan Oreo Cheese Mousse & Vanilla Cake dengan Strawberry Mousse bikin yeorobun berasa dapet hadiah 45,6 miliar₩. Ngebayangin nggak tuh setebal apa uangnya?"
+A090,Kembang Bawang PIK,jakarta,Jajanan/Minuman,Nasi Goreng Cakalang Asap,50000,Notes: Normal nya Agak Pedas Sedikit Dari Cakalangnya / Sedang / Pedas / Extra Pedas
+A091,Kemek Nyok,jakarta,Ayam & bebek/Seafood/daging,Spicy Ayam Bento,19000,Nasi + Ayam + Kentang + Variant Sauce + Variant Sambel
+A092,"Kenduricoffee, Patal Senayan",jakarta,Jajanan/Minuman,Es Kopi Sendu,18000,Minuman Signature Yg Disajikan Dengan Espresso Dan Susu Yg Segar
+A093,"KFC, Bintaro 9",jakarta,Ayam & bebek/Seafood/daging,Hot & Cheesy Chicken,23000,Hot & Cheesy Chicken
+A094,"KFC, Ciputat Gaplek",jakarta,Ayam & bebek/Seafood/daging,Hot & Cheesy Chicken,23000,Hot & Cheesy Chicken
+A095,"KFC, Kemang Timur",jakarta,Ayam & bebek/Seafood/daging,Hot & Cheesy Chicken,23000,Hot & Cheesy Chicken
+A096,"KFC, Lokasari Plaza",jakarta,Ayam & bebek/Seafood/daging,Golden Combo 2,57000,2 pcs Hot & Cheesy Chicken + 1 Rice + 1 Coca-Cola med.
+A097,"KFC, Tugu Puncak",jakarta,Ayam & bebek/Seafood/daging,Hot & Cheesy Chicken,23000,Hot & Cheesy Chicken
+A098,Khasanah Sari Citayam,jakarta,Roti,Tempel Coklat Black Forest,120000,Cake 18 x 18
+A099,"Kibo Cheese, Cibubur",jakarta,Jajanan/Minuman,Rose Gift Set (2 Pcs Kibo Mini),89900,2 Pcs Kibo Mini. Silahkan Tulis Ucapan Di Notes
+A100,"Kims Topokki, Bintara",jakarta,Jajanan/Minuman,Toppoki Reguler Original,18000,Toppoki Adalah Makanan Korea Berupa Tteok Dari Tepung Beras Yang Dimasak Dalam Bumbu Gochujang Yang Pedas Dan Manis.
+A101,"Klenger Burger, Benhil",jakarta,Barat,CKB (Cheese Klenger Burger),46200,"Roti Brioce, beef patty 100 gr (real meat 100%) with slice melted cheese topping by Mayo Klenger sauce, Tomato caramelized, Onion caramelized and fresh vegetable baby romaince/lettuce."
+A102,"Kopi Chuseyo, Sukasari",jakarta,Jajanan/Minuman,Kopi Oppa - Kopi Susu Korea,19000,Signature Korean blend café latte
+A103,"Kopi Dari Hati, Jatibening",jakarta,Jajanan/Minuman,Affogato,22000,Kenikmatan Yang Sangat Unik Antara Panas Dan Pahitnya Espresso Dengan Dingin Dan Manisnya Es Krim Vanilla
+A104,Kopi Kebun Bintaro,jakarta,Jajanan/Minuman,Kopi Susu Gula Aren (S)(Iced),23000,
+A105,Kopi Nako Ciracas,jakarta,Jajanan/Minuman,Es Kopi Nako,23000,Es kopi susu creamy kental dan kekinian
+A106,KOPINYA KIMBOO,jakarta,Jajanan/Minuman,Kopi Sanger,13000,Hot / Ice
+A107,"Koteshu, Sukahati",jakarta,Jajanan/Minuman,Okinawa Brown Sugar Regular,26500,Boba Freshmilk Dengan Paduan Brown Sugar Berasal Dari Jepang Dan Cream Sweet Di Atasnya
+A108,"Lawless Burgerbar, PIK",jakarta,Barat,Smooth & Thunder,95300,"Lawless Burger Buns, Lawless Beef Patty, Guinness Smooth Sauce, Jack Cheese, Beef Bacon, Spicy Sour Sauce."
+A109,"Lawless, Capsule Cibubur",jakarta,Barat,Smooth & Thunder Combo,152500,Smooth & Thunder Burger + Guinness Smooth Package
+A110,"Lawson, Akses UI",jakarta,Jajanan/Minuman,Paper Bag Small,800,
+A111,"Lawson, Cempaka Mas",jakarta,Jajanan/Minuman,Paper Bag Small,800,
+A112,"Lawson, Cipete Raya",jakarta,Jajanan/Minuman,Paper Bag Small,800,
+A113,"Lawson, Kemang Raya",jakarta,Jajanan/Minuman,Paper Bag Small,800,
+A114,"Lawson, Percetakan Negara",jakarta,Jajanan/Minuman,Paper Bag Small,800,
+A115,"Lawson, Sunter Kirana",jakarta,Jajanan/Minuman,Paper Bag Small,800,
+A116,"Lawson, Syahdan",jakarta,Jajanan/Minuman,Paper Bag Small,800,
+A117,"Lawson, UIN Kertamukti",jakarta,Jajanan/Minuman,Tas Belanja Lawson,7500,
+A118,LEPAS KOPI,jakarta,Jajanan/Minuman,Kopi Susu Lepas,27000,Espresso + Gula Aren + Sedikit Santan
+A119,"Longpan Pizza, Tugu",jakarta,Barat,Long Cheese,46000,"Saus keju, keju mozzarella, parmesan cheese."
+A120,"MAB Toppoki, Jengki",jakarta,Jajanan/Minuman,Rhabokki Odeng,25500,Makanan Khas korea diracik dengan sauce citarasa korea  ditambahkan mie yang juga khas korea dan ditabur dengan wijen dan daun bawang dan telor  disajkan dengan porsi sedang dan pedas maksimal sangat cocok di santap dengan drakor pilihan.
+A121,"Mad Bagel, BSD",jakarta,Barat,Jack's Wagyu Bagel,71500,"OMG! Bagel bun, Jacks Wagyu patty, scrambled egg, cheddar, dan caramelized onion dipadukan jadi satu, harus banget dicoba guys! Hanya tersedia hingga 31 maret."
+A122,MAISON BUTTER,jakarta,Jajanan/Minuman,3pcs Croffles,30000,"Crunchy, Flaky, Sweet, Buttery"
+A123,Makema Coffee,jakarta,Jajanan/Minuman,Es Kopi Susu Gula Aren (Hot/Ice),15000,"Espresso, Fresh Milk, Gula Aren"
+A124,"Markobar, Duren Sawit",jakarta,Jajanan/Minuman,Spesial 8 Rasa,95000,"Varian toping bebas pilih (Ceres, Keju kraft, Cadbury, Delfi, Silverqueen, Ovomaltine, Nutela, Kitkat, Silverqueen Greentea, Pocky strawbery, Oreo, Pocky cookies and cream.)"
+A125,Martabak Acc,jakarta,Jajanan/Minuman,Kacang Coklat Wijen Susu,38000,Kacang + coklat + wijen + susu
+A126,"Martabak Djuara, Cawang",jakarta,Jajanan/Minuman,Martabak Polos,55000,
+A127,martabak mapingkot,jakarta,Jajanan/Minuman,Wijsman Luar Dalem,15000,Buat Satu Porsi Martabak Manis
+A128,"Maza Gelato, Bintaro",jakarta,Jajanan/Minuman,Maret Anti Seret,150000,Min Pembelian 2pints Harga Sudah Disesuaikan Apk
+A129,"McDonald's, Jatiwarna",jakarta,Jajanan/Minuman,Share Box with Spicy Seaweed Cruncy Bubbles + Mentai Sauce,39500,
+A130,"McDonald's, Panjang",jakarta,Jajanan/Minuman,Share Box with Spicy Seaweed Cruncy Bubbles + Mentai Sauce,39500,
+A131,"McDonald's, Pekayon",jakarta,Jajanan/Minuman,Share Box with Spicy Seaweed Cruncy Bubbles + Mentai Sauce,39500,
+A132,"McDonald's, Tambak",jakarta,Jajanan/Minuman,White Choco Strawberry Pastry Pie,15500,
+A133,"Menantea, Epicentrum Walk",jakarta,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A134,"Menantea, Jatiwaringin",jakarta,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A135,"Menantea, Pamulang Tangerang",jakarta,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A136,"Menantea, Panglima Polim",jakarta,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A137,"Menantea, Pemda Cibinong",jakarta,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A138,"Menantea, Tangcity",jakarta,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A139,"Menantea, Tanjung Duren",jakarta,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A140,"Michelle Bakery, Cimanggis",jakarta,Roti,Chocolate Layer Bread,14000,
+A141,Mie Aceh Abunawas ,jakarta,Jajanan/Minuman,Mie Aceh Biasa,15000,Mie Aceh Biasa
+A142,Mie Ayam Jiddah,jakarta,Bakmi/bakso/soto,Mie Ayam Kriuk,17000,Mie+Ayamnya Halal+Pangsit goreng+Sayuran
+A143,"Mie Djoedes, Mojosari",jakarta,Aneka nasi,Mie Djoedes Original,14000,Mie tanpa topping
+A144,"Mixue, Benhil",jakarta,Jajanan/Minuman,Paket 1,51000,Milk Tea with 2 Topping + Mi-Shake Strawberry + Passion Fruit Jasmine Tea
+A145,MIXUE CIKARANG,jakarta,Jajanan/Minuman,Supreme Milk Tea,24000,Milk Tea With Pearl + Coconut Jelly + Oats + Brown Sugar Jelly
+A146,"Mixue, Harapan Indah",jakarta,Jajanan/Minuman,Mango Sundae,18000,Ice Cream + Mango Jam
+A147,Mixue Summarecon Serpong,jakarta,Jajanan/Minuman,Paket 1,51000,"Milk Tea With 2 Toppings, Passion Fruit Jasmine Tea, Strawberry Mi-Shake"
+A148,Moeda Coffee,jakarta,Jajanan/Minuman,Astacala Ice,30000,Perpaduan Espresso Dan Saus Krim Spesial Yang Menciptakan Rasa Es Kopi Susu Yang Premium
+A149,"Moida , Gramapuri Persada",jakarta,Ayam & bebek/Seafood/daging,Moicik Gochujang,21600,Nasi Sayuran Chicken Moida
+A150,"Mokat, Megamendung",jakarta,Jajanan/Minuman,Boba Freshmilk With Dalgona,22000,
+A151,"Mujigae, Aren Jaya",jakarta,Jajanan/Minuman,Apple Tea,15000,Teh dengan rasa buah apel yang segar
+A152,"Murabae Bento, Palmerah",jakarta,Aneka nasi,B2G3 - A,98000,"(1 porsi Nasi Chicken Teriyaki, 1 porsi Nasi Beef Teriyaki, 4pcs Ebi Furai, 2pcs Egg Roll, 1pcs Shrimp Roll, Nasi, Salad, Mayo, Sambal geprek)"
+A153,"Niat NGOPI, Kalimalang",jakarta,Jajanan/Minuman,Baileys Coffee,35000,"Baileys, Expesso, Milk"
+A154,Oguri Artisanal Cafe,jakarta,Jajanan/Minuman,Soju Jinro,166250,Buy 5 Get 2 Free Sloki/Buy 3 Get 1 Free Sloki
+A155,Ottoke Kape,jakarta,Jajanan/Minuman,Stay At Home A,78000,Ottoke Japchae + Ice Shaken Lychee
+A156,Pancong Lumer,jakarta,Jajanan/Minuman,Pancong Original,10500,Tanpa Topping
+A157,Pancong Pijay,jakarta,Jajanan/Minuman,Pancong Polos,10000,Sertakan Matang / Setengah Matang
+A158,"Panties Pizza, Pamulang",jakarta,Barat,1001 Nights Beef,37000,Pizza dengan isian daging sapi atau ayam yang dimasak dengan bumbu khas timur tengah dan keju mozarella creamy dibalut dengan kulit pizza yang super renyah.
+A159,"Pentol Seafood Korea, Pengantin Ali",jakarta,Ayam & bebek/Seafood/daging,paket murah meriah pentol/bakso,10000,pentol/bakso isi 5 butir
+A160,Pita Cappucino Cincau,jakarta,Jajanan/Minuman,ES CAPUCINO CINCAU,10000,
+A161,"Podomoro Bakso, Cibubur",jakarta,Bakmi/bakso/soto,BAKSO RUSUK,40000,Bakso Rusuk Dengan Daging Di Dalemnya Empuk Dan Enak Gurih Dan Tebal
+A162,"Potato Potter, Pramuka",jakarta,Jajanan/Minuman,Potato Cumi Panggang Korean(Cumi Panggang),20000,Rasa Cumi Panggang Korea
+A163,"Raindrunks, Bogor Timur",jakarta,Jajanan/Minuman,ANGGUR MERAH - KAWA KAWA LARGE 600ML,75950,Anggur Authentic Dengan Rasa Beda Dari Yang Lain. Kadar Alk 19.80 Persen (Semua Disajikan Dengan Segar Dingin Dan Tidak)
+A164,"Ramen Giant, Bogor",jakarta,Aneka nasi,Beef Udon,32600,UDON thick textured noodles - Dengan Toping : Beef Pilihan Kuah : Original chicken ( OC ) - Kare ( K ) - Oriental ( O ) - Tomyam ( T ) - Suju ( SJ ) Level Pedas : ( 1 - 5 )
+A165,Resto Ayam Najeb,jakarta,Ayam & bebek/Seafood/daging,Ayam Geprek Tanpa Nasi,19000,
+A166,"Restoran Sederhana, Ampera",jakarta,Aneka nasi,Sate Padang Daging,26000,
+A167,"Restoran Sederhana, Caman",jakarta,Aneka nasi,Ayam Gulai,22400,
+A168,"Restoran, Telaga Sindur",jakarta,Ayam & bebek/Seafood/daging,Menu TS Satu,40000,Nasi + Ayam Goreng + Tumis Kangkung + Lalap + Sambal + Es Teh Manis
+A169,Rumah Pasta WiB,jakarta,Barat,Mock Pepper Cheese Steak,38000,
+A170,Sate Rembiga Racaca,jakarta,Bakmi/bakso/soto,Paket Hello 1,30000,Nasi + Sate 5 Tusuk + Sop Bening
+A171,"Seblak, Cibinong",jakarta,Jajanan/Minuman,SEBLAK BAKSO + SOSIS,15000,Sayur + Kerupuk + Makaroni + Kwetiaw + BAKSO+SOSIS
+A172,"Seblak Nova, Cimanggis",jakarta,Jajanan/Minuman,Seblak Instan,12500,
+A173,Segilima Cafe,jakarta,Jajanan/Minuman,Es Kopi Susu,17000,
+A174,Sei dalam Bambu,jakarta,Jajanan/Minuman,Paket Samurai Sei Sapi,72500,"2 Nasi Putih/Jeruk Dengan Telor Orak Arik, 2 Sei Sapi Asap, 2 Sambal, 2 Es Teh Tawar, 2 Tumis Singkong Pepaya"
+A175,Seung Toppoki,jakarta,Jajanan/Minuman,Toppoki Reguler,15000,Toppoki original
+A176,"Shabu Idasuki, Cikarang",jakarta,Aneka nasi,Shabu Shabu Special,95000,"Porsi Banyak Dan Lengkap, Dengan Kelezatan Soup Tomyum/Chicken Diisi Dengan Daging Serta Toping Yang Nikmat"
+A177,Shihlin Ciputra Cibubur,jakarta,Jajanan/Minuman,Box Of Happiness,174000,Xxl crispy chicken + seafood tempura + sweet plum potato + popcorn chicken
+A178,"Slice Cake, Jagakarsa",jakarta,Jajanan/Minuman,Slice Mango Milky Cake,38000,Moist sponge with mango cream additional mango syrup
+A179,"Sliced Pizzeria, Bintaro",jakarta,Barat',Special Truffle,55000,"Pizza with Creamy Mushroom Base, Mozarella, Truffle Puree and Truffle Oil."
+A180,Sosis Bakar Gangan,jakarta,Jajanan/Minuman,Sosis Bakar Sedang,7000,
+A181,"Starbucks, Sudirman Bogor",jakarta,Jajanan/Minuman,Buy 2 Only 59k,59000,Sbux x Gofood Secret Recipe. Bebas pilih minumanmu sendiri! Tall size only.
+A182,Steaky Steak Cikarang,jakarta,Barat,Crispy Chicken Steak,31000,"Steak ayam krispi yang dipadu dengan saus steaky yang otentik, lengkap dengan sayuran dan kentang!"
+A183,"SUMOYAKI, PADEMANGAN",jakarta,Jajanan/Minuman,PORSI OKII 15 PCS TAKOYAKI BALL,40000,Porsi Okii Isi 15 Pcs Takoyaki Ball
+A184,Sunday Fat Bowl,jakarta,Jajanan/Minuman,Egg Teriyaki Gyudon,38000,Irisan daging sapi US dengan telur setengah matang (bisa request matang) di taburi sambal matah di atas nasi hangat
+A185,"Sushi Me, Slipi",jakarta,Jajanan/Minuman,SushiMe Mix - Best Seller,100000,Tuna Volcano Roll + California Roll + Spicy Tuna Roll + Kani Aburi Mayo Roll
+A186,SYMAXTY NINE COFFEE,jakarta,Jajanan/Minuman,Cappucino,22000,
+A187,"Takana Coffee, Rawamangun",jakarta,Jajanan/Minuman,Kopi Susu Aren,18000,"Espresso, Fresh Milk, Gula Aren"
+A188,Tao Cafe,jakarta,Jajanan/Minuman,Cappucino,29000,"Espresso, susu"
+A189,Tettakopi ,jakarta,Jajanan/Minuman,Kopi Susu Kurma,20000,"Espresso,freshmilk,kurma"
+A190,"The Acre, Menteng",jakarta,Jajanan/Minuman,Bombolone Deals,165000,Assorted bombolone box (6 pcs)
+A191,"The Garrison, Kemang",jakarta,Barat,Chicken Wings Grandpa 6pcs,91080,
+A192,Toko Kopi Bacarita,jakarta,Jajanan/Minuman,Nawa Nawa,25000,Kopi Susu Gula Aren
+A193,"Toko Pizza, Limo",jakarta,Barat,Large Cheese Pizza (8 Slice),59000,Plain cheese pizza with lots of fun!
+A194,Tokyo Town Cafe,jakarta,Jajanan/Minuman,Americano (  Ice ),19000,Double Shot Espresso + Fresh Mineral Water
+A195,"Tomokofi, Cileungsi",jakarta,Jajanan/Minuman,Teman Spesial 1L,76500,
+A196,"Traffic Bun, Benhil",jakarta,Barat,PAKET PAMER 1 : Black Montana Burger With Egg + Boston Cheese Burger + Coca Cola,105000,"Tambahan potongan 25K saat checkout, pake Gopay.  Paket Pamer 1"
+A197,"Traffic Bun, Buaran",jakarta,Barat,PAKET PAMER 1 : Black Montana Burger With Egg + Boston Cheese Burger + Coca Cola,105000,"Tambahan potongan 25K saat checkout, pake Gopay.  Paket Pamer 1"
+A198,"Wahaha, Kelapa Gading",jakarta,Barat,WAHAHA Pork Ribs Large,268000,"Our Premium Signature Pork Ribs is tender, lean, sweet and juicy, marinated with Balinese spices, glazed in WAHAHA Original BBQ Sauce then fire-grilled to perfection"
+A199,"Wanfan, Gunung Sahari",jakarta,Aneka nasi,Butter Chicken Rice,42000,Its not salted egg obviously. The creamy sweet of butters savory will blow you up and make you think: I love this better than salted egg
+A200,Warung Babe,jakarta,Aneka nasi,Soto Betawi,25000,"Daging,Kikil,Kentang,Emping"
+A201,"Warung Corndog, Sukaraja",jakarta,Jajanan/Minuman,Corn Dog Mozarella Coklat,15000,Keju Mozarella yang berbalut adonan roti dengan tambahan toping glaze
+A202,Warung Jamet,jakarta,Jajanan/Minuman,Ayam Bakar Bumbu Seblak Dada/Paha,26000,"1 potong ayam bakar dada/paha dengan olesan bumbu seblak, lalapan"
+A203,"XIBOBA, Bangbarung",jakarta,Jajanan/Minuman,Crunchy Signature Kakao,21000,"Cadburry chocolate milk dipadukan dengan chocolate sauce, cream cheese dan crunchy chocolate crumbs"
+A204,"Xi Bo Ba, Ramayana Cileungsi",jakarta,Jajanan/Minuman,Crunchy Signature Kakao,21000,"Cadburry chocolate milk dipadukan dengan chocolate sauce, cream cheese dan crunchy chocolate crumbs"
+A205,"XIBOBA, Ramayana Parung",jakarta,Jajanan/Minuman,Crunchy Signature Kakao,21000,"Cadburry chocolate milk dipadukan dengan chocolate sauce, cream cheese dan crunchy chocolate crumbs"
+A206,"XIBOBA, Summarecon Bekasi",jakarta,Jajanan/Minuman,Crunchy Signature Kakao,21000,"Cadburry chocolate milk dipadukan dengan chocolate sauce, cream cheese dan crunchy chocolate crumbs"
+A207,XO sushi Tebet ,jakarta,Ayam & bebek/Seafood/daging,Salmon Mentai,36000,Cooked Salmon With Creamy Sauce
+A208,"XXI Cafe, PGC",jakarta,Jajanan/Minuman,Popcorn Salt Small,25000,
+A209,"Ya'mbok, Jatimelati",jakarta,Ayam & bebek/Seafood/daging,Paket Panahe 1,51000,Nasi + Ayam Potong Original + Punch Yambok / Thai Tea
+A210,AHAN CHASIOPUI,medan,Aneka nasi,nasi siobak,67000,nasi + siobak + telur
+A211,Ahmeds Kitchen,medan,Aneka nasi,Paket Nasi Biryani Ayam Khas Dubai + Teh Manis Dingin,66000,Nasi + Ayam + Salad + Acar + Teh Manis Dingin
+A212,Airo Kitchen,medan,Aneka nasi,Paket Combo A (Tteokbokki + Squash Drinks),58000,
+A213,"Amanda Brownies, Sunggal",medan,Roti,Paket Cheese,146000,Paket cheese adalam pembelian 2 box brownies kukus cream cheese berhadiah totebag
+A214,"Arkana Cafe, Tuasan",medan,Aneka nasi,Nasi Ayam Penyet,13000,
+A215,"Aromora Cafe, Medan Tembung",medan,Aneka nasi,chicken chops,28000,dada ayam + salad +french fries +wortel
+A216,Assalam Resto,medan,Ayam & bebek/Seafood/daging,Sop Ikan Gurame/Nila,65000,Gurame/Nila Berat 500-700gr
+A217,Baboi,medan,Barat,Nasi Babi Panggang,64000,Nasi Babi Panggang
+A218,"Baked Well, Petula",medan,Roti,French Toast,58000,
+A219,Bakmie Kembar Manurung,medan,Bakmi/bakso/soto,Nasi Goreng,22000,
+A220,Bakmie Sedap Siantar,medan,Bakmi/bakso/soto,Telur Kecap (1 Butir),7000,
+A221,"Bakso Anggrek, Marelan",medan,Bakmi/bakso/soto,Milagros 625ml,55000,1 Botol Air Minum Dengan PH Tinggi
+A222,Bakso Bakar Hot ,medan,Bakmi/bakso/soto,Bakso Bakar Hot,11000,Satu Porsi Bakso Bakar Isi 5 Tusuk
+A223,"Bakso Bola, STM",medan,Bakmi/bakso/soto,Mie Ayam Biasa,11500,
+A224,Bakso Solo Kraton,medan,Bakmi/bakso/soto,Bakso Ayam,12500,bakso + mie + sayuran
+A225,"Basecamp Coffee, Medan Sunggal",medan,Jajanan/Minuman,Arena Coffee,22000,"Fresh espresso arabica from Sumatra high land, palm sugar and special milk"
+A226,"Besty Cemilan, Kapten Sumarsono",medan,Jajanan/Minuman,Chocolate,8000,Chocolate Powder + Meises + Cincau Jelly + Milk + Sugar + Ice
+A227,Bihun Ikan Hongkong,medan,Ayam & bebek/Seafood/daging,BIHUN DAGING IKAN GORENG,43000,Bihun daging ikan tanpa tulang
+A228,Bika Ambon Ati,medan,Jajanan/Minuman,Bika Ambon ATI Original,60000,
+A229,Bika Ambon Zulaikha,medan,Jajanan/Minuman,Bika Ambon Coklat,86140,Pcs
+A230,"Boca, Dr Mansyur",medan,Roti,Iced Cheezo Black Tea,24000,Teh Hitam + Cheese Foam
+A231,Bolen Quemami Bakery,medan,Roti,Pisang Cokelat Keju Isi 10,110000,
+A232,Bolu Susu Berastagi,medan,Jajanan/Minuman,BSB Alpukat,47500,Bolu Susu Rasa Alpukat Dengan Topping Krim Dan Keju
+A233,Bou Bobalicious,medan,Jajanan/Minuman,Vanilla Latte Non Boba,9000,Ukuran 16oz disertai Krimer + Gula
+A234,Breadpop Medan,medan,Roti,Roti Dingin,12500,"Strawberry, Vanilla, Coffee"
+A235,Brownies for ANGEL,medan,Jajanan/Minuman,Topping Coklat 1 lapis,33000,"Brownies Topping Coklat adalah varian ter-vaforite di toko kami, Brownies dengan rasa Coklat yg Nikmat berpadu dengan topping coklat berkualitas  sssst 1 kotak enggak akan pernah cukup loh )"
+A236,"BS Coffee, Halat",medan,Jajanan/Minuman,Es Kopi Coklat,22000,"Espresso, Susu, Coklat"
+A237,"Bukit Kopi, Jurung",medan,Jajanan/Minuman,Hot Espresso,12500,
+A238,"Burger Bros, Medan Maimun",medan,Ayam & bebek/Seafood/daging,BroBagi 1 - The Chicken Burger Meal,130960,2 She Caught the Chicken Burger + 1 Es Matcha Mindfulness + 1 Es Cokelat Cozy
+A239,Burger Gendon,medan,Barat,Gendon Beff Chesee,36000,"(Roti gendon,daging Sapi,keju,telur,saos Bolognes,sayuran)"
+A240,"Burger King, Ring Road",medan,Ayam & bebek/Seafood/daging,Snack Pack 1,36500,1 Double Choco Pie + 1 Coke Float + 1 Reg Fries.
+A241,"Cafe City, Thamrin",medan,Barat,Chicken Thai With Rice,24800,"Nasi, Chicken Crispy, Saos Thai, Salad"
+A242,"Calmante, Cemara",medan,Jajanan/Minuman,Blueberry Tea,13000,
+A243,Cemilan Kenangan Tembung,medan,Barat,Makaroni Spiral Box 1000ml,15000,"Ukuran Box 1000ml Ada Varian Rasa : Balado, Pedas Manis , Super Pedas, Jagung Manis, Ayam Bawang"
+A244,Cemilan Snack Medan,medan,Jajanan/Minuman,Telur Asin Per Pcs,5000,Telur  Bebek Asin cocok utk menemani sarapan bubur Anda di pagi hari
+A245,"Cent's, Sumatera",medan,Jajanan/Minuman,Peanut Butter Pumpkin Toastie,28000,
+A246,"CGV, Focal Point",medan,Jajanan/Minuman,J. Caramel Popcorn,72000,Jumbo bucket caramel popcorn
+A247,"Chatime, Binjai Supermall",medan,Jajanan/Minuman,Hazelnut Chocolate Milk Tea (Reguler Size) & Phill Stackable Cups Minions,90000,Hazelnut Chocolate Milk Tea (Reguler Size) & Phill Stackable Cups Minions
+A248,"Chicken Crush, Delitua",medan,Ayam & bebek/Seafood/daging,Paket Nasi M,20250,Nasi + 1 Sayap / 1 Paha Bawah
+A249,"Chicken Crush, Gaperta",medan,Ayam & bebek/Seafood/daging,Paket Nasi M,20250,Nasi + 1 Sayap / 1 Paha Bawah
+A250,"Chicken Crush, Tuasan",medan,Ayam & bebek/Seafood/daging,Paket Nasi M,20250,Nasi + 1 Sayap / 1 Paha Bawah
+A251,"Chicken Inc, Medan",medan,Ayam & bebek/Seafood/daging,Paha Mulus Si Kribo,12000,Paha Ayam Fillet Crispy Dengan Marinasi dan Tepung Special Si Kribo
+A252,"Choco Bakery, Karya",medan,Roti,Bolu Caramel Sarang Semut,39000,
+A253,"Choco Bakery, Marelan",medan,Roti,Bolu Caramel Sarang Semut,39000,
+A254, Clouds Coffee,medan,Jajanan/Minuman,Local Clouds,23000,Es Kopi Susu
+A255,Copa Coffee,medan,Jajanan/Minuman,Nasi Goreng Special,29000,
+A256,Corndog Mozarella Bites,medan,Jajanan/Minuman,Mozarella Corndog Original,23000,Mozarella Dengan Saus+mayonaise
+A257,Dapoer Sedap Wangi,medan,Jajanan/Minuman,Bihun Ayam Obat (Yok Cai Kee) ALA MAMI,50000,Bihun+ayam+selada+yensui+daun bwg+bwg putih gor+acar bwg cabe+kuah herbal soup ayam wangi
+A258,"Dapurnyonyabinjai, Binjai Timur",medan,Jajanan/Minuman,Sotang (Sosis + Kentang),13000,"Sosis Yang Dibalut Dengan Adonan Tepung Yg Mantul Dibalut Dengan Potongan Kentang Yang Menambah Cita Rasa Crunchy Ketika Digigit, Dan Diberi Topping Saos Dan Mayonaise Yang Yahuddd"
+A259,"D'Conrad, Mojopahit",medan,Jajanan/Minuman,Ice Mochi Mooncake,140000,"Pilihan rasa Pandan, Kacang Merah, Kacang Hijau, Lotus Biscoff Kacang Hijau"
+A260,"Dcrepes, Ruko Setia Budi",medan,Jajanan/Minuman,Plastic Bag,1000,WAJIB untuk pemesanan lebih dari 3 Crepes
+A261,Dear Butter,medan,Jajanan/Minuman,9 Pcs Croffle + Ice Pandan Latte,131400,9 Pcs Croffle + Ice Pandan Latte
+A262,DeFroggy,medan,Jajanan/Minuman,Mocha,31000,
+A263,Depan Gang Coffee,medan,Jajanan/Minuman,Es Kopi Depan Gang,19000,Kopi + Susu + Gula Aren
+A264,"Dooduck, Thamrin Plaza",medan,Jajanan/Minuman,Orange Delight,32000,
+A265,"Dunkin' Donuts, Ringroad",medan,Jajanan/Minuman,Paket 6 Donut dan DD Card,88000,Paket 6 donut dan DD card
+A266,"Durian House, Sekip",medan,Jajanan/Minuman,Bika Ambon Ori,75000,
+A267,"Eatboss, Ring Road",medan,Ayam & bebek/Seafood/daging,Cheesy Nachos,21704,
+A268,"Eat Toast, Medan",medan,Jajanan/Minuman,Basic Toast,23000,Perpaduan Klasik Antara Omelette dan Keju Serta Saus Dan Mayonaise Ala Eat Toast
+A269,Ejaz Biryani ,medan,Roti,Chicken Biryani Double,70000,Nasi Briyani Ayam Full
+A270,FatFoodMeli,medan,Jajanan/Minuman,Risol Ayam,10000,4 Pcs Risol + Saos Cabe
+A271,"France Bakery, Bambu",medan,Roti,Roti Pizza Bulat,7500,
+A272,"Fritto Chicken, Sudarso",medan,Ayam & bebek/Seafood/daging,CHICKEN BURGER ORIGINAL,20300,BURGER AYAM
+A273,"Fritto Chicken, TVRI",medan,Ayam & bebek/Seafood/daging,CHICKEN BURGER ORIGINAL,20300,BURGER AYAM
+A274,Garis Cafe,medan,Jajanan/Minuman,Espresso,14000,
+A275,Gocha Gocha,medan,Aneka nasi,Beef Pepper Steak,66000,
+A276,Gorengan Bu Aidah,medan,Jajanan/Minuman,Pisang Kepok Goreng,2000,Kepok Kuning Manis
+A277,Grand Liberty Restaurant,medan,Ayam & bebek/Seafood/daging,Promo Murah Paket A,238000,Ayam Goreng Bawang Putih (1/2 Ekor) + Tahu Liberty (5pcs)
+A278,"Great Cafe Medan, Katamso",medan,Ayam & bebek/Seafood/daging,Ayam Pecak Spesial Great,19000,Tempe + ikan asin
+A279,Guzva Coffee & Resto,medan,Jajanan/Minuman,Espresso,24000,Hot
+A280,"Heysteak, Medan Johor",medan,Barat,Sup Kaldu,18000,"1,5 liter"
+A281,Hoffen milk bar,medan,Jajanan/Minuman,PLAIN,12000,"susu murni, FRESH!"
+A282,"Hola Crabs, Abadi",medan,Ayam & bebek/Seafood/daging,Kepiting Mix Kepah,29900,Kepiting + Jagung + Kepah (Saos Padang)
+A283,"Holywings, Medan",medan,Aneka nasi,Chicken Wings Grandpa 6pcs,71280,
+A284,Hot Buns Bakery,medan,Roti,Brownies Potong,10000,
+A285,HRD COFFEE SHOP,medan,Jajanan/Minuman,Teh Dingin,7500,
+A286,Hungrypedia Mustika,medan,Jajanan/Minuman,Nasi Pedia 1,27000,Nasi Putih+telur+tahu+tempe+salad+sambal Kecap
+A287,i CLAZ,medan,Jajanan/Minuman,Sanger H,22000,Menggunakan Biji Kopi Full Arabica Kualitas Ekspor
+A288,IO.INOUT,medan,Jajanan/Minuman,InOut Coffee,30000,Kopi Susu Gula Aren
+A289,Istanbul Kebab,medan,Jajanan/Minuman,Kebab Sapi Besar,38000,"Lavash, Kari autentik Turki, Sayuran Segar, Tomat,  Bawang Bombay, Daging Sapi Yg Fresh, Saos, dan Mayonais"
+A290,JAMU RAHMAN,medan,Jajanan/Minuman,BRASTOMOLO,12000,Menyegarkan Dan Menyehatkan Badan
+A291,"Jelly Potter, Sikambing",medan,Jajanan/Minuman,Orange Squash,15000,
+A292,Joglo Sewu Roso,medan,Bakmi/bakso/soto,Bakso Semar Mendem,35000,
+A293,Jp Coffee,medan,Jajanan/Minuman,Nasi Ayam Rica Rica + Teh Manis Dingin,18000,"Nasi, Ayam, Sambal Rica Rica"
+A294,"K3 Mart, Ayahanda",medan,Jajanan/Minuman,Paket Hotdog + Cold Drink,38000,
+A295,"K3 Mart, Sumatera",medan,Jajanan/Minuman,Paket Hotdog + Cold Drink,38000,
+A296,Kabayan Seafood Bandung,medan,Aneka nasi,Cumi Saos Tiram Pete-nasi,75000,Seafood
+A297,Kai Xing Pao,medan,Jajanan/Minuman,Bakpao Chasiew/Daging Saus Bbq,15800,Bakpao Isi Daging Saus Bbq
+A298,"Kantor Kupie, Stabat",medan,Jajanan/Minuman,Kentang Goreng,12000,
+A299,"Kedai Kopi Kulo, Setiabudi",medan,Jajanan/Minuman,Es Kopi Kulo Untuk Driver,14000,
+A300,"Kedans, Stabat",medan,Jajanan/Minuman,Full Sosis Original Small,7500,"Stick isi Full Sosis berbalut adonan roti diberi saus pedas, mayo dan saus keju"
+A301,KENZO BOBA,medan,Jajanan/Minuman,Red Velvet,16000,
+A302,Kerang Pink,medan,Ayam & bebek/Seafood/daging,Paket Jomblo,37500,1 Varian + Jagung
+A303,Kerang Rebus Sumatra ,medan,Ayam & bebek/Seafood/daging,Kerang Bulu,18000,Kerang Bulu
+A304,"KFC, Home Centra",medan,Barat,Golden Combo 1,40500,1 pc Hot & Cheesy Chicken + 1 Rice + 1 Coca-Cola med.
+A305,"KFC, Marelan Raya Medan",medan,Barat,Golden Combo 1,40500,1 pc Hot & Cheesy Chicken + 1 Rice + 1 Coca-Cola med.
+A306,"KFC, Medan Fair",medan,Barat,Golden Combo 2,57000,2 pcs Hot & Cheesy Chicken + 1 Rice + 1 Coca-Cola med.
+A307,"KFC, Suzuya Medan",medan,Barat,Golden Combo 2,57000,2 pcs Hot & Cheesy Chicken + 1 Rice + 1 Coca-Cola med.
+A308,"Killiney, DI Panjaitan",medan,Aneka nasi,Singapore Laksa,51000,
+A309,"Koboi Cafe, Bromo",medan,Jajanan/Minuman,Nasi + Ayam Penyet,23000,
+A310,"Kokumi, Sun Plaza",medan,Jajanan/Minuman,Combo 1.,64000,Okinawa Brown Sugar Big Boba R + Skinny Okinawa
+A311,"Kopi Broo, STM",medan,Jajanan/Minuman,Roti Bakar Coklat,17000,
+A312,Kopi Garasi Tua,medan,Jajanan/Minuman,Avocado,13000,Garasi Tua
+A313,"Kopi Sadis, Tembung",medan,Jajanan/Minuman,Ayam Goreng Kremes,21250,
+A314,"Kopi Yor, Medan",medan,Jajanan/Minuman,Buy 1 Get 1 (Es Kopi Awa FREE Peach Tea),30000,"Promo Buy 1 Get 1 3rd Anniversary Kopi Yor, menangkan kesempatan untuk mendapatkan Luxury Staycation dari Kopi Yor!"
+A315,Koppitomi Coffee 2,medan,Jajanan/Minuman,Koppitomi Coffee (Cold),29000,Double Shoot Espresso (Strong)
+A316,"LImasari, S. Parman",medan,Jajanan/Minuman,Nasi Limasari Dngn Nasi Sereh,37000,Daging Ayam/Ikan Fillet
+A317,"Lina Cafe, Tembung",medan,Aneka nasi,Nasi Goreng Ala Lina,23000,
+A318,Locabite Burgerbox Johor,medan,Barat,Cheese Beef Burger,28000,"A Delicious Beef Burger With Caramelized Onion, Fresh Pickles, American Red Cheese, And Special Cheese Sauce"
+A319,Lontong Stasiun,medan,Aneka nasi,Nasi Gurih Telur Bulat,14000,
+A320,"Luigi Gelato, S Parman",medan,Jajanan/Minuman,Gianduia Gelato (Chocolate Hazelnut),37500,
+A321,Marina Bay Seafood,medan,Ayam & bebek/Seafood/daging,Paket Nasi Bistik Ayam + Telur Ceplok,65000,Nasi + Bistik Ayam + Telur Ceplok
+A322,Martabak Bollywood Medan,medan,Jajanan/Minuman,Martabak Telur Ayam ( 2 Telur ),27000,
+A323,"Martabak Djuara, Pulo Brayan",medan,Jajanan/Minuman,Martabak Polos,55000,
+A324,"McDonald's, Binjai",medan,Jajanan/Minuman,White Choco Strawberry Pastry Pie,15500,
+A325,Meja Coffee & Space,medan,Jajanan/Minuman,Mekosu,25000,
+A326,"Menantea, Ringroad Medan",medan,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A327,Mie Aceh Jal,medan,Bakmi/bakso/soto,Mie Aceh Daging,16000,
+A328,Mie Balap Seafood 77,medan,Ayam & bebek/Seafood/daging,Mie Hun Biasa,8500,
+A329,Monokrom Binjai,medan,Jajanan/Minuman,Nasi Goreng Original,20000,
+A330,"Moo Ngemil Corndog, Marelan 5",medan,Jajanan/Minuman,Corndog Coklat,19450,Corndog Isian Full Mozarella Dengan Topping Coklat Lumer.
+A331,Mr. Prawns,medan,Ayam & bebek/Seafood/daging,Khua Chai Phui (Tersedia Di Hari Sabtu),45000,
+A332,"Muda Burgerbar, Binjai",medan,Barat,THE O.G CRISPY CHICKEN,18000,ROTI BURGER WIJEN PREMIUM BERPADU DENGAN AYAM CRISPY DITAMBAH SAYURAN SEGAR DAN SAUS SPESIAL MUDA
+A333,MY Drink 21 ,medan,Jajanan/Minuman,Milk Shake Green Tea (Small),8000,Tanpa Toping
+A334,Nasgor Tiarbah,medan,Bakmi/bakso/soto,SODAP 1,43500,1 Nasgor + Badak (HANYA BERLAKU NASGOR DENDENG LEMAK)
+A335,"Nomi, Multatuli",medan,Jajanan/Minuman,Nomi Lotus Milk Boba,40500,
+A336,Nongki Square,medan,Jajanan/Minuman,Nasi Goreng Special Nongki,32500,Nasi Goreng dengan Bumbu Special Nongki Square
+A337,Odette Vegetarian,medan,Barat,Tempeh Chips,32000,
+A338,"Offle, Medan Mall",medan,Jajanan/Minuman,Choco,20000,Favorite
+A339,OluOlu Korean food,medan,Bakmi/bakso/soto,OluOlu Saus Black Pepper - Porsi Coba,15000,Paduan Bakso Seafood dan Bakso Ayam Di siram Saus Pilihan
+A340,Ome Crepes Johor,medan,Jajanan/Minuman,Ome Sosis,14000,
+A341,OPPA OPPA TOKPOKKI,medan,Jajanan/Minuman,Jjajang-Myeon(Besar),25000,"Mie Telur x2pcs,Saos Jjajang Korea,Telur,Timun,Wijen Korea,Daun Prey."
+A342,"Padamu Negeri, Delipark",medan,Jajanan/Minuman,Sambal Matah Beef Garlic Toast,63360,Cemilan Populer Sepanjang Masa. Ropang Yang Dipadu Irisan Daging Sapi Lembut Dan Sambal Matah Khas Bali
+A343,Pak Tong Kuphi,medan,Jajanan/Minuman,Kopi Panas,8500,
+A344,"Patbingsoo, Multatuli",medan,Ayam & bebek/Seafood/daging,Bibim Patbingso,52800,"Fruits , helly , pat, stobery saos dab ice cream"
+A345,PECAL BERKAH 89,medan,Aneka nasi,NILA ASAM MANIS + LALAPAN SEGAR + SAMBAL,19999,Nila Asam Manis Yang Enak Dengan Lalapan Segar Dan Sambal Yang Mantap
+A346,Pia Tamiang,medan,Jajanan/Minuman,Bakpia Kacang Hijau,53000,Isi 21 Pcs
+A347,PIPETZ,medan,Jajanan/Minuman,Ice Thai Tea S,6250,
+A348,"Piutime,  Veteran",medan,Jajanan/Minuman,Special Edition Tote Bag,31000,
+A349,"Pizza Roemah Enak, Stabat",medan,Barat,Roti Sosis,7000,Roti Isian Sosis dengan Karakter Roti Yang Lembut
+A350,"Pokpia 88, Wahidin",medan,Jajanan/Minuman,Paket A ( Pokpia Goreng 3 Pcs),27000,Free 1 Teh Botol Sosro
+A351,Pondok Punokawan,medan,Aneka nasi,EL GE PE Spesial,23000,
+A352,POST DUA CAFE,medan,Jajanan/Minuman,Nasi Goreng Special,20000,Ayam + Telur
+A353,"POTTE Cafe & All Day Dining, Medan Selayang",medan,Jajanan/Minuman,1 Kopi Susu Roma + 1 Asian Dolce Latte Free Americano/ Long Black,75000,"Kopi susu Roma, Coffe Bean + Fresh Milk + cookies Roma Asian Dolce Latte, Coffe Bean + Fresh milk + Susu kental manis Americano/ Long black, Coffe bean"
+A354,Pulut Durian Rahmadsyah,medan,Aneka nasi,DURIAN KUPAS MEDAN SUPER ISI 800-900 GRAM,95000,Durian Kupas Medan
+A355,"PunyaAyee Medan, Cemara",medan,Ayam & bebek/Seafood/daging,Baby Crab Original,15000,Original
+A356,"Putra Dimsum, Purwo",medan,Jajanan/Minuman,Dimsum Ayam 1 Kotak Isi 20,70000,
+A357,"QiuQiunian, Medan Marelan",medan,Jajanan/Minuman,Premium Choco Boba Milk,15500,
+A358,"QiuQiuNian, Medan Marendal",medan,Jajanan/Minuman,Premium Choco Boba Milk,15500,
+A359,"Qiuqiunian, Merci",medan,Jajanan/Minuman,Premium Choco Boba Milk,15500,
+A360,"Raihan Bakery, Denai",medan,Roti,B Gulung Kelapa Bsr,53000,
+A361,"Raihan Bakery, Tembung",medan,Jajanan/Minuman,B. Palm Sugar,35300,
+A362,"Rajanya Taichan, Multatuli",medan,Ayam & bebek/Seafood/daging,Sate Taichan Ayam,27500,10 Tusuk
+A363,"Ram Kopi, Merak",medan,Jajanan/Minuman,Espresso Single,15000,
+A364,"Restaurant Miramar, Pemuda",medan,Aneka nasi,Nasi Bungkus Sayur + Ayam Panggang,30000,
+A365,"Restoran Berjaya, Marelan",medan,Aneka nasi,Lontong Gulai Paku,17500,
+A366,"Restoran Berjaya, Setiabudi",medan,Ayam & bebek/Seafood/daging,Bubur Kacang Ijo,12500,
+A367,"Richeese Factory, Binjai",medan,Ayam & bebek/Seafood/daging,Flash Sale 3 Fire Chicken,81000,3 Fire Chicken + Cheese Sauce
+A368,"Ridho Burger, Binjai",medan,Barat,Burger Daging,4000,
+A369,RM. Jenar,medan,Aneka nasi,Nasi Ayam Panggang,25000,
+A370,Ruang Sarca,medan,Jajanan/Minuman,Sarcas,28000,Kopi Susu By Ruang Sarca
+A371,Rumah Ide Coffee,medan,Jajanan/Minuman,Pisang Goreng Biasa,15000,Pisang Goreng
+A372,Salad Buah Tuasan,medan,Jajanan/Minuman,Salad Buah Small 300ML,28500,"Buah : semangka merah / kuning pear madu, apel merah / hijau, buah naga, anggur, Melon Topping : kiwi anggur, Sunkist, stroberi"
+A373,"Sari Roti, Sunggal",medan,Roti,Paket Sekolah 1,32500,"1 Roti Tawar Special, 2 Sandwich (Cokelat/Krim Keju/Margarin Gula), 2 Roti Krim (Cokelat/Cokelat Keju)"
+A374,Sate Kuda Sumbawa,medan,Ayam & bebek/Seafood/daging,Ayam Penyet Cabe Ijo + Nasi + Teh Manis Dingin,24000,
+A375,"Seafood 2000, Krakatau",medan,Aneka nasi,Kepiting,70000,
+A376,"Seafood 88, Sunggal",medan,Ayam & bebek/Seafood/daging,PAKET 1,231500,"Gurami Asam Manis, Sapo Tahu, Cumi Telur Asin, Fuyung hae, Nasi Putih 4"
+A377,"Seger, Tembung",medan,Jajanan/Minuman,Tropical Appleberries,25000,Minuman Juice Apel Dengan Sirup Strawberry Dan Rainbow Jelly
+A378,Segi Coffee,medan,Jajanan/Minuman,Honey Americano,30000,
+A379,"Sejiwa Cafe, Tuamang",medan,Ayam & bebek/Seafood/daging,Nasi Goreng Telur,16000,Nasgor plus telur
+A380,Sekata Kopi,medan,Jajanan/Minuman,Sekata Signature Coffee,26000,
+A381,"Serambi Kuphi, Ksatria",medan,Jajanan/Minuman,Espresso/Arabika,12500,
+A382,"Shawarma Sultan, Setiabudi",medan,Jajanan/Minuman,Shawarma Kecil Komplit,19500,"Roti,Ayam,Sayur,Bawang,Acar,Kentang,Keju"
+A383,Simhae Medan,medan,Jajanan/Minuman,Paket Korean BBQ Set A (2 Orang),75000,"""1. US Beef / Short Plate (150gr) 
+2. Ayam BBQ (100gr)
+3. Aneka Macam Bakso (6 butir)
+4. Kimchi (100gr) 
+5. Saos 2 Macam (@50ml)"""
+A384,Simpost Cafe,medan,Jajanan/Minuman,Ice Coffee Chocolate,18000,"Coffe, Coklat, Fress Milk"
+A385,"Siomay Podomoro, Polonia",medan,Jajanan/Minuman,Siomay Bandung,18000,
+A386,"Sippin, Medan Selayang",medan,Jajanan/Minuman,Hojicha Latte,17500,PROMO Premium Hojicha
+A387,"SIPPIN, MMTC",medan,Jajanan/Minuman,"Blue Breeze Cloudy, Red Berry Cloudy",45000,NEW LIMITED STOCK! + GET 1 LOVE LETTER WITH REWARDS!
+A388,"SIPPIN, Tembung",medan,Jajanan/Minuman,"Blue Breeze Cloudy, Red Berry Cloudy",45000,NEW LIMITED STOCK! + GET 1 LOVE LETTER WITH REWARDS!
+A389,Slice Coffee,medan,Jajanan/Minuman,Slice Coffee,25000,
+A390,"Sobat, Ring Road",medan,Aneka nasi,Soto Daaging,32000,
+A391,SOHA Coffee,medan,Jajanan/Minuman,Ice Red Velvet Latte,18000,Red Velvet+freshmilk+whipcream
+A392,"Starbucks, Multatuli Medan",medan,Jajanan/Minuman,Buy 2 Only 59k,59000,Sbux x Gofood Secret Recipe. Bebas pilih minumanmu sendiri! Tall size only.
+A393,Suans Bakery,medan,Roti,Raisin Toast,54600,
+A394,Sultan Cafe,medan,Jajanan/Minuman,Ayam Penyet,18000,Nasi + Ayam Penyet
+A395,"Sushi Mentai, Medan",medan,Ayam & bebek/Seafood/daging,C3. Ebi / Shrimp,16500,
+A396,"Sushi Yay, Medan Setiabudi",medan,Ayam & bebek/Seafood/daging,Sushi Bucin Platter,110000,"Tuna Mayo Teriyaki Roll, Sushi Love Maki Roll, Wakame Sushi Donut"
+A397,"Tahiti Bakery, Taruma",medan,Roti,Roti Coklat isi 6,24000,
+A398,Takoyaki Genki,medan,Ayam & bebek/Seafood/daging,Takoyaki octopus 6pcs ball,21500,"Takoyaki dengan topping octopus, saos takoyaki,katsubushi Japan dan halal"
+A399,"Takoyaki Kansai, Medan",medan,Jajanan/Minuman,"1xTako Shrimp,1xTako Octopus,1XTako Crab, 1XTako Mozarella",77000,"Takoyaki Super Combo berisi 24 bola dengan empat varian rasa Udang, Gurita, Kepiting dan Mozarella."
+A400,"Takoyaki Kansai, Turi",medan,Jajanan/Minuman,"1x Tako Fish Roll Corn (Otak-Otak), Tako Udang, 1x Tako Octopus, 1x Tako Crab",81500,"Takoyaki SUPER COMBO berisi 24 bola dengan 4 varian rasa yaitu Fish Roll Corn (Otak-Otak), Udang, Octopus, Crab dan Mozarella."
+A401,TAMAN BAKSO DANGDUT,medan,Bakmi/bakso/soto,NASI GORANG SEAFOOD,22000,Kami Menyajikan Yg Sesuai Dengan Selera Anda
+A402,"Taman.Co, Medan Tuntungan",medan,Jajanan/Minuman,Es Kopi susu,20000,
+A403,Taman Kopi,medan,Jajanan/Minuman,Ayam Geprek Taman Kopi,27000,"Ayam, Sambal Caplak, Tahu, Tempe, Mentimun, Tomat, Plus Nasi"
+A404,"Tamoe Coffee, Medan Polonia",medan,Jajanan/Minuman,Kopi Susu Tamoe,28000,Kopi Susu Gula Aren
+A405,"Tea Car, Diponegoro",medan,Jajanan/Minuman,Chocolate,15000,
+A406,TEH NYAWANG,medan,Jajanan/Minuman,Es Teh Nyawang Original,7000,
+A407,"Texas Chicken, Binjai Supermall",medan,Ayam & bebek/Seafood/daging,Pak Eko 1,37000,1 Chicken + 1 rice +  1 drink reg
+A408,"The Cups, Bandung",medan,Jajanan/Minuman,Nasi Simangunsong,32000,
+A409,"Tokebi Binjai, Bengam",medan,Ayam & bebek/Seafood/daging,Tteokbokki,25000,Tteobokki + Sosis + Bakso
+A410,"Wajir Seafood, Sugiono",medan,Ayam & bebek/Seafood/daging,Tahu Goreng,13000,
+A411,"Warung 2R, Ismaliyah",medan,Jajanan/Minuman,Frozen Dimsum Ayam,71500,Dimsum Ayam Isi 15 + Sambal Segar Versi Nelayan
+A412,"Warung Jivano, Marelan",medan,Aneka nasi,Nasi Goreng Biasa,14000,Nasi+telur Dadar+ayam Suwir
+A413,"Warung Nyam Nyam, Pasundan",medan,Aneka nasi,Ayam Penyet Golden Chicken,19500,Ayam Penyet Dan Nasi Putih
+A414,"Warung Seblaku, Marelan",medan,Bakmi/bakso/soto,Seblak Topingan Paket D,43500,1 seblak dasaran + mie + telur + Bakso (sapi/ayam) + sosis (sapi/ayam) + Dumping keju + cikuah + bakso salmon + crabstick + seafood tofu + otak otak
+A415,Warung Teguh,medan,Jajanan/Minuman,Burger Mini,5000,
+A416,"Xi Bo Ba, Medan Gaperta",medan,Jajanan/Minuman,Crunchy Signature Kakao,25000,"Cadburry chocolate milk dipadukan dengan chocolate sauce, cream cheese dan crunchy chocolate crumbs"
+A417,"Xiji, Jcity Medan",medan,Jajanan/Minuman,XXL Crispy Chicken,32000,"Crispy chicken dengan beberapa pilihan bumbu dan tingkatan pedas 0, 1, 2, & 3"
+A418,XO Coffee Space,medan,Jajanan/Minuman,Kopi Tetangga - 1L,100000,Treatyourself With Satu Liter Kopi Tetangga (Iced Only)
+A419,"YES248, Cemara Asri",medan,Barat,Sushi Roll Combo E,32300,"4 Pcs Kani Kama Mentai Roll, 4 Pcs Chicken Teriyaki Roll"
+A420,"YES248, MMTC",medan,Barat,Sushi Roll Combo E,32300,"4 Pcs Kani Kama Mentai Roll, 4 Pcs Chicken Teriyaki Roll"
+A421,"Zenbu, Sun Plaza",medan,Aneka nasi,Chicken Mozaru Lovers,129800,2 Pcs Chicken Mozaru Reguler
+A422,"Zeribowl, Delipark",medan,Jajanan/Minuman,Hemat 9000,40000,
+A423,"Zeribowl, J City",medan,Jajanan/Minuman,Hemat Package 2,90000,3 Sour  Plum (S) HEMAT s/d Rp.27.000!
+A424,"Zeribowl, Sun Plaza",medan,Jajanan/Minuman,Zeribowl Happy Bag,149000,
+A425,"369 Shanghai, Jemursari",surabaya,Aneka nasi,Bestdeal Noodle,108000,Song mie/ Mie Zha jiang +Xiaolongbao/Guo tie small+ Air mineral
+A426,AHA by Kudos,surabaya,Jajanan/Minuman,Beef And Mushroom,56800,"Rice, Beef Patty, Mushrooms, Chilli, Coconut Milk, Garlic"
+A427,"Aiciro, BG Junction",surabaya,Jajanan/Minuman,Chicken Fillet,24500,"Pilihan Rasa: Original, Chili, Barbeque // Level: 1,2,3,4,5"
+A428,Order Sekaligus - Aiola Canteen Merr,surabaya,Aneka nasi,Original,32500,Original Pancake/Waffle
+A429,"Amalia Cake, Wringinanom",surabaya,Jajanan/Minuman,Original,15000,Brownies + Toping Coklat
+A430,"Amanda Brownies, Tegalsari",surabaya,Jajanan/Minuman,Paket Cheese,146000,Paket cheese adalam pembelian 2 box brownies kukus cream cheese berhadiah totebag
+A431,"AMPM SDA, Buduran",surabaya,Jajanan/Minuman,Iced Freshpresso,22000,"Espresso, Susu, Dengan Sirup mint"
+A432,"Aneka Bothok, Sukolilo",surabaya,Aneka nasi,Bothok Jeroan / Ati,12000,Jeroan / ati goreng di kukus dengan bumbu pedas tanpa kelapa dengan bungkus daun pisang
+A433,Aneka Seblak Endull,surabaya,Jajanan/Minuman,Rice Bowl Teriyaki Endull,16500,
+A434,Angkringan Abas Krian,surabaya,Aneka nasi,Nasi Bakar Ayam Suwir,8000,
+A435,"Ayam Gacoan,Waru",surabaya,Ayam & bebek/Seafood/daging,Rice Bowl Ayam Opor,25000,Nasi+Ayam Opor+Tumis Sayuran+Sayuran Segar
+A436,Ayu Frozen Food,surabaya,Ayam & bebek/Seafood/daging,Naget Ayam So Nice,19000,Naget Ayam So Nice 250 gr
+A437,"Bakso Biru, Sidoarjo",surabaya,Bakmi/bakso/soto,Paket Hemat 1,15600,"Pentol isi 4 , Lengkap Mie Dan Touge"
+A438,Bakso Kenari,surabaya,Bakmi/bakso/soto,Mantap 1,11500,Pentol Jumbo + Tahu Putih
+A439,Bakso Lava,surabaya,Bakmi/bakso/soto,Bakso Lava  .Poyo .,8000,Bakso 8000
+A440,Bakso Tutus,surabaya,Bakmi/bakso/soto,Bakso Iga,38000,
+A441,BANANESH,surabaya,Jajanan/Minuman,Pisang Sunpride 1kg,19000,
+A442,Bandeng Karimanasi,surabaya,Ayam & bebek/Seafood/daging,Goreng Otak Otak Bandeng,49000,Otak otak bandeng di goreng balut telur mantap
+A443,"Baraccung, Ambengan",surabaya,Bakmi/bakso/soto,Mie Baraccung Level 0,20000,
+A444,BasrenG GonjrenG,surabaya,Bakmi/bakso/soto,Paket ProduseR,32600,
+A445,bebek canggih,surabaya,Ayam & bebek/Seafood/daging,Nasi Bebek,34000,
+A446,Bebek NdoWer,surabaya,Ayam & bebek/Seafood/daging,Nasi Bebek Gemoy,36000,"Nasi,Lalapan,Sambel, Kremsan Laos"
+A447,BEBEK SIMAYAKHO SURABAYA,surabaya,Ayam & bebek/Seafood/daging,Paket 1 Sedep,36000,1 Potong Bebek/Ayam Goreng Dada/Paha Yang Sedep + 1 Porsi Nasi Putih Hangat + 1 Sambal Merah Dan Hijau Yang Mantep + 1 Lalapan Segar. Gratis Tempe/Tahu 1.
+A448,"Belikopi, Ketintang",surabaya,Jajanan/Minuman,Taro,11000,
+A449,Belikopi. Ponti,surabaya,Jajanan/Minuman,Taro,11000,
+A450,BICOPI GUNUNGANYAR,surabaya,Jajanan/Minuman,Bicopi Original,22500,"Simple Syrup, Single Esspreso, Fresh Milk, Cream Chesse"
+A451,"Big Bananas, Siwalankerto",surabaya,Jajanan/Minuman,Buy 1 Cheese Roll Free 1 Cheese Roll,60000,"Pilihan Varian: Choco, Tiramisu, Choco White, Capucinno, Greentea"
+A452,"Bing-Go, Wiyung",surabaya,Jajanan/Minuman,2 Tiny Can,47600,"Cute, Tasty, And Delicious Bing In Each 330ml Can"
+A453,Bitten Coffee / Kopi,surabaya,Jajanan/Minuman,Aren Latte,19000,Kopi khas Bitten Roastery dipadu dengan susu spesial dan Gula Aren Murni
+A454,Bluder Cokro Gwalk,surabaya,Jajanan/Minuman,Bluder Coklat Keju,14000,Bluder Dengan Perpaduan Rasa Selai Coklat Dan Keju Berbetuk Dadu
+A455,Bluder Cokro Sidoarjo,surabaya,Roti,Bluder Coklat,17000,Bluder lembut khas madiun beisikan coklat yang nikmat
+A456,"Boga Kitchen, Surabaya",surabaya,Aneka nasi,Bundle Mafia A,143000,Yakuza Beef Furikake Rice + Jopok Korean Samyang Chicken
+A457,"Bourda Bakery, Perak",surabaya,Roti,Roti Tawar Susu,14000,Roti Tawar Susu Original
+A458,"Break Cafe, Sedati",surabaya,Jajanan/Minuman,Buy 2 Get 2 Non Coffee,45999,"Matcha, Chocolate, Red Velvet, Taro"
+A459,Buba Caramelized,surabaya,Barat,Buba Pasta 1 Porsi,40000,Spaghetti Andalan Buba Dimasak Dengan Bumbu Caramelized Butter
+A460,Bubur Punokawan,surabaya,Aneka nasi,Paket 1,25000,Bubur Ayam Original + Bubur Ketan Hitam Nangka + Es Tea
+A461,"Burger Bros, Genteng",surabaya,Barat,BroBagi 1 - The Chicken Burger Meal,130960,2 She Caught the Chicken Burger + 1 Es Matcha Mindfulness + 1 Es Cokelat Cozy
+A462,Burger Kalap,surabaya,Barat,Paket Komplit,146000,"Paket 4 Burger: Crispy Chicken Burger, Chicken Burger, Beef Burger, Dan Smash Burger, Ditambah Dengan Kentang Goreng"
+A463,"Burger King, Sidoarjo",surabaya,Barat,Snack Pack 1,36500,1 Double Choco Pie + 1 Coke Float + 1 Reg Fries.
+A464,"Burger Shot, Wiyung",surabaya,Barat,PARTY 4,105000,2 X KILL OR DIE ELITE
+A465,Cafelar Coffee & Eatery,surabaya,Jajanan/Minuman,Americano,17000,
+A466,"Cendrawasih Kopi, Rest Area Aloha",surabaya,Jajanan/Minuman,Hot Espresso,13000,Rasakan kenikmatan kopi lokal Arabica maupun Robusta
+A467,"Chaophraya, Tegalsari",surabaya,Aneka nasi,Nasi Goreng Ikan Asin,85000,
+A468,"ChatThai, Rungkut",surabaya,Jajanan/Minuman,Small Ice Original Thai Tea,6000,"Teh Thailand, Gula, Susu"
+A469,"Cheskee, Pakuwon Mall",surabaya,Jajanan/Minuman,Blue Haocean,28000,
+A470,"Chi Fry, Wiyung",surabaya,Jajanan/Minuman,Chifry Gift Set,45000,2 Crispy Chicken + Chifry Calender
+A471,"Cibcib Annyeong, Warkop Seket Limo",surabaya,Jajanan/Minuman,Chicken CibCib,20000,Chicken Gepuk
+A472,"COCO, Gwalk Citraland",surabaya,Jajanan/Minuman,Raw Coco,20000,100% Raw Coconut Water.
+A473,"Colours Cafe (CC), Domas",surabaya,Aneka nasi,Nasi Goreng Coklat Spesial,19000,Tambahan Telur Dan Sosis
+A474,"Corica, Biliton",surabaya,Jajanan/Minuman,"Apple Strudel Whole,",345000,
+A475,"Cosmic Coffee, Tulangan",surabaya,Jajanan/Minuman,Es Kopi Susu Gula Aren,19000,Paduan Espresso dengan fresh milk dan gula aren
+A476,Creme Croffle,surabaya,Jajanan/Minuman,Apple Strudel,28000,2 Croffle Plus Topping Spesial Apple Dan Cream
+A477,"Dailybox, Kutisari",surabaya,Ayam & bebek/Seafood/daging,Sapi Asap Lada Garam,55000,"Nasi hainan, sapi asap, bumbu lada garam & tumis pakcoy"
+A478,"Dapur 99, Sedati",surabaya,Bakmi/bakso/soto,Ayam 5 Rasa Pedas,28000,Ayam Paha Gr Kering Dgn Campuran Cabe Rawit .Aneka Bawang Dan Lada Hitam
+A479,Dapur Mama Ketrin,surabaya,Bakmi/bakso/soto,Mie Ayam Pangsit Jakarta,20000,
+A480,Dapur Pancali,surabaya,Jajanan/Minuman,Nasi Ayam Geprek (Tanpa Tulang),8000,
+A481,"D'BestO, Wonokusumo",surabaya,Ayam & bebek/Seafood/daging,Awal Tahun 1,19000,Ayam CLBK sayap + nasi
+A482,"Dear Butter, Sidoarjo",surabaya,Jajanan/Minuman,9 Pcs Croffle,104000,
+A483,"Depot Bamara, Purwodadi",surabaya,Aneka nasi,Gurami Bakar + Sambal Pencit,12000,
+A484,Depot BERKAH JAYA,surabaya,Aneka nasi,Mie Goreng Ndoweerrr,25000,Bisa Pilih Level 1 - 3
+A485,"Depot Kartika, Ketajen",surabaya,Aneka nasi,Nasi Goreng Teri,30000,
+A486,"Depot Manganokene, Pasar Buah 36",surabaya,Bakmi/bakso/soto,Nasi Goreng Rempah,20000,Nasi Goreng Dengan Bumbu Rempah Cita Rasa Depot Mangano Kene Ayam Suwir +taburan Telur
+A487,"Depot Slamet, Dharmawangsa",surabaya,Aneka nasi,Telur Mata Sapi,5000,
+A488,"Depot Slamet, Kedungdoro",surabaya,Bakmi/bakso/soto,Nasi Goreng Ayam,52000,
+A489,"Depot Wijaya, Demak",surabaya,Ayam & bebek/Seafood/daging,Sate Daging Kambing Polosan,95000,Sate Daging Kambing Tanpa Lemak
+A490,DEPOT XIWANG,surabaya,Aneka nasi,Sapi Saos,82500,
+A491,"Cemilan Dewa, Pandean",surabaya,Jajanan/Minuman,Brownies Potong Mika M,20000,Brownies Potong Aneka Topping Bebas Pilih Sendiri Sesuai Selera
+A492,Doe Sun Bakery,surabaya,Roti,Lidah Kucing Keju Besar,100000,
+A493,"Donuthing GKB, Manyar",surabaya,Jajanan/Minuman,Cronuthffle,11250,Nikmati Sensasi Kelezatan Donuth Dalam Sajian Waffle
+A494,"Dopota, Pucang",surabaya,Jajanan/Minuman,Mini,5000,Donat Mini Aneka Pilihan Rasa
+A495,Dprapatan,surabaya,Jajanan/Minuman,Nasi Goreng Dprapatan,23000,
+A496,Eat Toast Surabaya,surabaya,Jajanan/Minuman,Choco Cheese,18000,Perpaduan Antara Chocomaltine+taburan Cheese Premium
+A497,"Esteh Indonesia, Gwalk",surabaya,Jajanan/Minuman,Chizu Avocado LARGE,23500,Es Teh dengan Rasa Avocado bertaburkan cream cheese yang asik
+A498,"Esteh Indonesia, Sidoarjo",surabaya,Jajanan/Minuman,Chizu Avocado LARGE,23500,Es Teh dengan Rasa Avocado bertaburkan cream cheese yang asik
+A499,"Es Teh Indonesia ,Sukolilo",surabaya,Jajanan/Minuman,Chizu Avocado LARGE,23500,Es Teh dengan Rasa Avocado bertaburkan cream cheese yang asik
+A500,"Fat Daddy, Sedati",surabaya,Barat,Tea Beligo,6500,Teh Beligo Atau Teh Extraks Dari Buah Beligo/kundur
+A501,Father Kafe,surabaya,Jajanan/Minuman,Cappucino,14000,"Espresso, Palm Sugar And Milk"
+A502,Fire Wok Kitchen,surabaya,Bakmi/bakso/soto,Pangsit Mie Ayam Jamur Porsi Jumbo,45000,"Mie Telur Di Beri Bumbu Special Di Tambah Topping Potongan Daging Ayam , Jamur , Sayur Sawi Dan Pangsit Rebus Isi Ayam Nan Lezat"
+A503,Flossy Croffle,surabaya,Jajanan/Minuman,Quartet Caramelized,43750,Isi 4 Original Croffle Yang Crunchy Dan Buttery Abis
+A504,"Fresh Boba, Tandes",surabaya,Jajanan/Minuman,Original Boba Brown Sugar,17500,Fresh Milk + Brown Sugar + Boba Brown Sugar
+A505,Garden Food Festival ,surabaya,Jajanan/Minuman,Es Tape Ijo / Hitam Ori (M),11500,
+A506,"Geprek Mms, Gedangan",surabaya,Ayam & bebek/Seafood/daging,Ayam Geprek Tanpa Nasi,13500,Dada ayam timun tomat selada kemangi sambal korek / sambal bawang
+A507,"Gildak, Tunjungan",surabaya,Jajanan/Minuman,Itaewon Crispy Chicken W/ Nyambel Gwangju,46000,Itaewon Crispy Chicken W/ Nyambel Gwangju
+A508,"Glek, Ketintang 157",surabaya,Jajanan/Minuman,Es Kopi,10000,Rasa kan ke nikmatan asli dari kopi hitam yang dingin
+A509,"Go Kage, Mulyosari",surabaya,Aneka nasi,Kage Japan,44000,"Ayam Goreng Karaage dengan Sauce jepang , disajikan dengan nasi & telur"
+A510,Goorengan Indonesia,surabaya,Jajanan/Minuman,Tahu Isi,5000,"Tahu Isi Mihun, Bukan Isi Pulsa. Receh Oiya Isi 5"
+A511,"Greenly, Darmo Permai",surabaya,Barat,Oat Crusted Teriyaki Chicken Plate,59000,"(566 Cal) Crispy oat-breaded chicken, furikake tofu, kani salad, sous-vide egg, leafy greens, brown rice, teriyaki sauce"
+A512,Gultik Merdeka,surabaya,Bakmi/bakso/soto,Nasi Gultik,20000,
+A513,Gurami Bakar Surabaya,surabaya,Ayam & bebek/Seafood/daging,Gurami Bakar Jumbo,59500,"Porsi Jumbo Di Bakar Dgn Kecap Manis Dan Bumbu Pilihan Pasti Mantap ,Sudah Plus Lalapan dan Sambal Pedas ( Hidangan Sesuai Di Gambar)"
+A514,"Guri Ramen, Mulyosari",surabaya,Bakmi/bakso/soto,Tori Furai Ramen,32500,"Mie ramen, Kuah kaldu miso spesial, Ayam Goreng Panko, Narutomaki, Jagung, Bawang Pre, Katsuoboshi, Nori"
+A515,"Hai Steak House, kingsquare Driyorejo",surabaya,Barat,Es Teh Manis,5000,
+A516,HALAL BOSS,surabaya,Aneka nasi,Personal Nasi Mandhi,31250,Beras Basmati Yang Diolah Dengan Kaldu Dan Rempah Dimasak Dengan Teknik Pengasapan Khusus
+A517,"Haus!, Delta Sari",surabaya,Jajanan/Minuman,Strawberry Tea,11000,
+A518,"Haus!, Manukan",surabaya,Jajanan/Minuman,Kiwi Tea,12000,"Sensasi segar dari teh rasa kiwi, lengkap ada bulir selasih juga lho!"
+A519,"Haus!, Siwalankerto",surabaya,Jajanan/Minuman,Kiwi Tea,12000,"Sensasi segar dari teh rasa kiwi, lengkap ada bulir selasih juga lho!"
+A520,"Hayaku Sidoarjo, Citra Harmoni",surabaya,Jajanan/Minuman,Yakiniku Special Mix,72000,1 Porsi (Irisan Daging Ayam dan Daging Sapi + 2 Potong Sosis + 2udang)
+A521,"HokBen, Suncity Sidoarjo",surabaya,Aneka nasi,2 pcs Ayam Goreng + Nasi + Ice Lemon Tea,57000,2 pcs Ayam Goreng + Nasi + Ice Lemon Tea
+A522,Holland Bakery Indrapura,surabaya,Roti,Korean Garlic Cream Cheese,14600,
+A523,"Holland Bakery, Thamrin",surabaya,Roti,Roti Coklat,9700,
+A524,"Holland Bakery, Tropodo",surabaya,Roti,Roti Coklat,9700,
+A525,Holywings Gold Basra,surabaya,Ayam & bebek/Seafood/daging,Chicken Wings Grandpa 6pcs,71280,
+A526,"Holywings, Kertajaya",surabaya,Aneka nasi,Chicken Wings Party Pack,270600,Special untuk kamu dan teman2 kamu yang mau menikmati cita rasa makanan Holywings dimanapun kamu berada
+A527,"Iconic Jajanan, Sambikerep",surabaya,Jajanan/Minuman,Choco Silky Puding Vla,6000,1 Cup Puding Susu Rasa Coklat Dilengkapi Vla
+A528,Ikan Bakar Dewata,surabaya,Ayam & bebek/Seafood/daging,Paket 1,55000,Ikan Bakar + Nasi
+A529,Ikon,surabaya,Barat,Imported Rib Eye,123750,"Pilihan Sauce : Mushroom Sauce, BBQ Sauce, Japanese Sauce."
+A530,"Inna Roti, Jambangan",surabaya,Roti,Kebab Frozen,100000,"Paket isi 10 , tidak pedas."
+A531,IZZA kitchen,surabaya,Jajanan/Minuman,Salad Buah Original Coklat Serut 300 ml,20000,"Melon, Apel, Pear, Jambu Biji, Mangga, Jeruk, Jelly, Saus Salad, Taburan Coklat Serut Dan Toping Buah"
+A532,Jajan Toast,surabaya,Jajanan/Minuman,Basic Toast,16000,Perpaduan klasik antara beef serta saos mayonais ala jajan toast
+A533,"Jiegwan Penyetan, Candi",surabaya,Ayam & bebek/Seafood/daging,Bebek goreng Plus Nasi,25000,"Ada Tahu Tempe, Lalapan, Sambal"
+A534,"Jokopi, Dinoyo",surabaya,Jajanan/Minuman,Es Kopi Susu Blusukan,30000,"Espresso, Racikan Susu, Gula Aren"
+A535,"Jokopi, Gwalk",surabaya,Jajanan/Minuman,Es Kopi Susu Blusukan,30000,"Espresso, Racikan Susu, Gula Aren"
+A536,"Joomba, Gwalk",surabaya,Jajanan/Minuman,Double Lebih Hemat,96000,
+A537,"Joomba, Manyar Kertoarjo",surabaya,Jajanan/Minuman,Tropical Manggo,34000,"Manggo Piece,lemon,yoghurt"
+A538,"Jus Buah, Umma",surabaya,Jajanan/Minuman,Jus Mangga Jumbo 22oz,12500,"Buah Mangga Segar, Gula Pasir, Susu .."
+A539,KAFE ASIA KRIAN,surabaya,Jajanan/Minuman,Spicy Chicken Samyang Mozarella,26500,Mie Kriting + Bumbu Pedas Korea + Moza + Toping Ayam + Sayur
+A540,"Kampoeng Roti, Manukan",surabaya,Roti,Bolu Vanilla Tiramisu,64800,
+A541,"Kampoeng Roti, Wiyung",surabaya,Roti,Bolu Coklat Klasik,64800,
+A542,"Kampoeng Roti, Wonosari",surabaya,Roti,Roti Bujangan,2500,
+A543,"Kampoeng Steak, Rungkut",surabaya,Barat,Beef Kriwul,32000,
+A544,K'bon Cafe,surabaya,Aneka nasi,Nasi Goreng Hijau,19000,
+A545,"Kebab Bosman, Kenjeran",surabaya,Jajanan/Minuman,Canai Kecok Extra Keju,13500,"Canai keju cokelat isiannya dijamin bikin terperanjat, tambah extra keju!"
+A546,"Kebab Bosman, Ngagel",surabaya,Jajanan/Minuman,Special Kebab Original Jumbo,13000,Menggoyang lidahmu tak terkira isiannya
+A547,KEBULI JORDAN SURABAYA,surabaya,Aneka nasi,Nasi Kebuli Ayam Paha,45000,Paket Nasi Kebuli + Ayam Paha
+A548,"Kedai Budget, Dharmawangsa",surabaya,Jajanan/Minuman,Sosis Solo Frozen (mentah),3500,
+A549,Kedai Es Juragan,surabaya,Bakmi/bakso/soto,Jus Semangka,10500,
+A550,Kedai Kopi Kakak,surabaya,Jajanan/Minuman,Kopi Ekspresso,20000,Dari Biji Kopi Pilihan Di Olah Menggunakan Mesin Ekspresso Menghasilkan Cita Rasa Dan Aroma Kopi Murni
+A551,Kedai Mama AL,surabaya,Jajanan/Minuman,Es Nutrisari Jeruk,4000,Minuman Rasa Jeruk Yang Melepas Dahaga
+A552,Kedai MAREM JOYO,surabaya,Ayam & bebek/Seafood/daging,Nasi Goreng Sosis,10000,
+A553,Kedai ReffTwo,surabaya,Bakmi/bakso/soto,Ayam Recheese Tanpa Nasi,23000,Level 0-5
+A554,Kedai Teh Poci,surabaya,Jajanan/Minuman,Teh Poci Original,5500,"Teh Poci Jasmine/Teh Poci Vanilla, Gula, Air, Es Batu Kristal, Kemasan Cup 16 Oz, Jika Vanilla Habis, Otomatis Diganti Teh Jasmine"
+A555,"Kedai Toelis, Prambon",surabaya,Jajanan/Minuman,Seblak Dheer,13000,"Seblak Geer..dg Isian: Krupuk, Pentol, Sosis, Telur, Cireng, dan Sayuran"
+A556,"Keikpop, Bengawan",surabaya,Jajanan/Minuman,Split Cake,75000,"Lezatnya Chocolate Cake dengan Oreo Cheese Mousse & Vanilla Cake dengan Strawberry Mousse bikin yeorobun berasa dapet hadiah 45,6 miliar₩. Ngebayangin nggak tuh setebal apa uangnya?"
+A557,"KFC, Gempol City",surabaya,Barat,Golden Combo 2,57000,2 pcs Hot & Cheesy Chicken + 1 Rice + 1 Coca-Cola med.
+A558,"Kim Boba Sidoarjo & My Croffle, Sidoarjo",surabaya,Jajanan/Minuman,Kim Boba Signature Cheese Cream Rasa Taro,18000,Varian Rasa Taro Perpaduan Dengan Diberi Toping Brown Sugar Cheese Cream Membuat Rasa Lebih Terasa Nikmatnya Di Setiap Awal Seduhan Hingga Ahkir Untuk Varian Rasa Terbaru Kim Boba Signature
+A559,KIMMIE LOK-LOK,surabaya,Ayam & bebek/Seafood/daging,SOSIS SAPI KEJU (SEDANG),7000,Olahan Daging Salim Dengan Campuran Chop Cheese
+A560,"KOKUMI, Tunjungan Plaza",surabaya,Jajanan/Minuman,Popsicle Okinawa Brown Sugar Big Boba,30000,Your favourite drink on a stick
+A561,"KOMOREBI, GWalk Citraland",surabaya,Aneka nasi,Beef Sambel Bawang,48000,"Daging slice sapi US yang disajikan dengan sambal bawang special Komorebi x Dara Arafah, dan disajikan dengan telor mata sapi, jamur crispy dan kremesan."
+A562,"KONOTORI, Manyar",surabaya,Aneka nasi,Oishi 1,56000,1 Chicken Donburi (All Var) + 1 Snack (All Var) + 1 Fruit Tea
+A563,Kopi Baik,surabaya,Jajanan/Minuman,Americano,11750,"One Shoot Espresso And Sugar, Can Be Hot/Cold"
+A564,"Kopi Panggang, Manyar",surabaya,Jajanan/Minuman,Duo coffee,21000,Es Kopi Susu + Iced Coffee Brown Sugar
+A565,"Seblak Dan Mie Ayam Kopi Santai Gkb, Jl Kalimantan 103 Gkb",surabaya,Ayam & bebek/Seafood/daging,Seblak Original (Seblak Suki Tanpa Topping),10000,"Isi Kerupuk,Telur"
+A566,Lanuli Mocktail,surabaya,Ayam & bebek/Seafood/daging,Italian Green Soda,20000,
+A567,Lapis Srikandi,surabaya,Roti,ROTI BAKAR AYAM LEMPER,28000,"Ayam Lemper, Puff Pastry"
+A568,Larissa Bakery,surabaya,Roti,Paket Hemat Isi 4,22000,Donat Oreo.Rainbow Cake.Pizza Roll.Vanila
+A569,"Laritta Bakery, Manukan",surabaya,Roti,Black Bun,6600,
+A570,"Lazizaa, Kemangsen Krian",surabaya,Ayam & bebek/Seafood/daging,Krispy BarBar 1,30000,
+A571,"Lesehan 8000, Panjunan Raya",surabaya,Ayam & bebek/Seafood/daging,Nasi Penyetan Ikan Asap,11000,"Nasi, Penyetan Ikan Asap, Sambel Trasi Dan Lalapan Segar"
+A572,"Lukumades, Pakuwon Mall",surabaya,Jajanan/Minuman,Half-Half and Lemon Tea,91250,
+A573,Lumpia Pisang Kaget,surabaya,Jajanan/Minuman,Lumpia Pisang Coklat,23000,Lumpia Pisang Yang Dibaluri Dengan Glaze Coklat..
+A574,"M2M, Mojosari",surabaya,Barat,Beef Burger,26000,
+A575,"Macaroni Cuck, Siwalankerto",surabaya,Jajanan/Minuman,Makaroni Goreng,8250,"Pilihan rasa : garlic and lime, Cheese, BBQ, Balado) (Pilihan Level: 0,1,2,3,4,5)"
+A576,Mafia Gedang,surabaya,Jajanan/Minuman,Yakuza,27000,Pisang Coklat Dengan Toping Keju
+A577,"Mai Pizza, Mojosari",surabaya,Barat,Pizza Tuna Medium,46000,"Ukuran 22Cm
+topping tuna, paprika, bawang bombay, tomat, mozarella"
+A578,"Mak Ciem, Pandaan",surabaya,Jajanan/Minuman,Seblak Special,16000,level 0 - 5
+A579,"Mangkokku, Tenggilis",surabaya,Aneka nasi,Semangat MangkokkuxKanzler,38000,Extra crispy chicken nugget with endog and tartar sauce
+A580,"Markas Ranjau, Mojosari",surabaya,Aneka nasi,Sambal Ranjau,2000,
+A581,MARTABAK CHEF PLUTO,surabaya,Jajanan/Minuman,Biasa Keju Matcha,35000,
+A582,"Martabak Hawaii, Gedangan",surabaya,Jajanan/Minuman,Original Keju,38000,
+A583,"Martabak Hollene, Sawotratap",surabaya,Jajanan/Minuman,Martabak Biasa Sapi,35000,
+A584,"McDonald's, Merr Surabaya",surabaya,Jajanan/Minuman,White Choco Strawberry Pastry Pie,15500,
+A585,Mejishi Sushi,surabaya,Ayam & bebek/Seafood/daging,Spesial Sushi Hampers,104000,"Limited Stock !! Salmon Mentai, Cheesy Melt, Gachu Maki, Wakame Mentai Gunkan (2pc), Kani Salad Gunkan (2pc)"
+A586,"Menantea, Gwalk Surabaya",surabaya,Jajanan/Minuman,Tea Hyung,23000,Rasa honey yuzu yang dipadukan dengan jasmine green tea dan irisan lemon asli bikin mata dan hati makin segar.
+A587,"Menantea, Waru",surabaya,Jajanan/Minuman,3X Lemon Tea,24000,Dapat 3 Porsi Lemon Tea
+A588,"Mie Gacoan, Sidoarjo",surabaya,Bakmi/bakso/soto,Mie Angel,14000,Gurih tidak pedas
+A589,Mie Gragas Sidoarjo,surabaya,Bakmi/bakso/soto,Sushi Goreng Gragas,16250,
+A590, Mie Jeder,surabaya,Bakmi/bakso/soto,Mie Pedas Jeder Level 0,13000,"Mie Original Tidak Pedas + Toping Ayam, Beef, Kekehan + Krupuk"
+A591,"Mie Kane, Mojosari",surabaya,Bakmi/bakso/soto,Mie Kane,10000,Mie Ayam dengan rasa enaknya yang khas. Dengan toping ayam dan keripik pangsit yang kriuk akan menambah selera makan para noodlle lovers.
+A592,"Mie Mapan, Sepanjang",surabaya,Bakmi/bakso/soto,Paket Special 1,34000,1 Mie Yamin Karaage + Le Mineral 600ml
+A593,"Mie Njerit, Krembung",surabaya,Bakmi/bakso/soto,Mie Original Level 0,11250,
+A594,Mimi Donat Kentang,surabaya,Jajanan/Minuman,Boba Brown Sugar Original,13000,Fresh Milk Boba Brown Sugar
+A595,"Molen Molek, Rungkut",surabaya,Jajanan/Minuman,Molen Pisang Isi Greentea lumer Frozen,32500,"Isi 10 molen frozen ukuran medium siap goreng, bisa buat simpanan di freezer, greenteanya lumer enak ga bikin serik"
+A596,"Momoiro, Pakuwon Mall",surabaya,Jajanan/Minuman,Package 1 : 1 Box of Buttercream & Raisin Sando Biscuits,120000,1 box of buttercream & raisin sando biscuits + CNY edition sleeve packaging and greeting card
+A597,"Mr Seafood, Sedati",surabaya,Ayam & bebek/Seafood/daging,6botol NUTRIVE BENECOL,51000,6 Botol Supplement Penghancur Kolesterol NUTRIVE BENECOL
+A598,My Bakery,surabaya,Roti,Tawar Halus Friends (ori),7999,
+A599,Nakama Bento,surabaya,Aneka nasi,Ayam Sambal Kemangi,32000,Nasi dengan lauk segar Ayam Sambal Kemangi dan dilengkapi dengan Telur yang sedap
+A600,Ndalem Prabu,surabaya,Ayam & bebek/Seafood/daging,Gurami Asam Manis,85000,"Bumbu Special Dengan Topping Nanas, Paprika, Dan Wortel"
+A601,"Ngastina, Bawean",surabaya,Aneka nasi,Nasi Liwet,26400,
+A602,"Ngasyapp!!, Gress Mall",surabaya,Ayam & bebek/Seafood/daging,Paket Sei Rakyat (Sapi),25200,"Paket hemat Sei Daging Sapi, irisan telur  dadar, dan sambal jeruk limau (Sudah termasuk Nasi putih & Tumis daun singkong)"
+A603,"Ngasyapp!!, Plaza Surabaya",surabaya,Aneka nasi,Paket Sei Rakyat (Sapi),25200,"Paket hemat sei daging sapi, irisan telur  dadar, dan sambal jeruk limau (sudah termasuk nasi putih & tumis daun singkong)"
+A604,"Noodle Bar, Mojopahit",surabaya,Bakmi/bakso/soto,Dimsum Goreng Lumpia Galau,19000,"Dimsum dengan Isian Ayam,Kulit Tahu dan Nori (Per Pack Isi 3pcs)"
+A605,"Nyayap, Metropolis Tenggilis",surabaya,Ayam & bebek/Seafood/daging,Tebus Murah + 2022,100000,"Buy 1 nyayap cheecorn + 1 nyayap black gangnam, tambah 2022 dapat 1 fench fries original + 2 lee mineralle"
+A606,"Pabrik Kopi, Sukomanunggal",surabaya,Jajanan/Minuman,Americano,14400,
+A607,PANCONG PANTURA SURABAYA,surabaya,Jajanan/Minuman,PANCONG ORIGINAL S,10000,
+A608,"Pancong Pocong, Menganti",surabaya,Jajanan/Minuman,Pancong Chocholate S,10000,
+A609,"Pentol Gilaaa, Rungkut",surabaya,Jajanan/Minuman,Gila Aja (Isi 4),12000,Menu original pentol gilaaa dengan 4 pentol besar bebas pilih & disiram dengan sambal super edas
+A610,"Pentol Gilaaa, Sidoarjo",surabaya,Jajanan/Minuman,Gila Aja Isi 4,13500,
+A611,Penyetan Queen,surabaya,Ayam & bebek/Seafood/daging,Penyetan Ayam Plus Nasi,24000,Pedas Atau Tidak Yang Penting Tidak Sepedas Bisik Bisik Tetangga
+A612,Pizza Mabruk,surabaya,Barat,Beef Corn Large,58000,Perpaduan Beef yang gurih dan jagung yang manis akan menggoyang Lidah
+A613,"Pizza Place, Tegalsari",surabaya,Barat,Cheese Pizza,30000,Cheese
+A614,Pocong Pancong Gayungsari,surabaya,Jajanan/Minuman,Pancong Meses Susu L,16000,Kue Pancong Yang Lumer Ditaburi Dengan Meses Susu
+A615,Pocong Pancong Wage,surabaya,Jajanan/Minuman,Pancong Greentea 1/2 Loyang,11000,Kue Pancong Dengan Selai Variant Greentea Yang Manis
+A616,Poke LILY,surabaya,Bakmi/bakso/soto,Sei Babi Daging Asap Khas Kupang NTT Asli 500gr Sambal Luat Babi Pork Aroma Rasa Mantap,168000,Sei Babi Khas NTT Asli Kemasan 500gr. Free Sambel Luat. Dijamin Asli Dari NTT
+A617,"Pomello, Rangkah",surabaya,Jajanan/Minuman,Paket Ber 2,46000,Bebas Pilih Kecuali Fresh Dan Honey Pomello (Promo Tidak Bisa Digabungkan Dengan Promo Yang Lain)
+A618,"Post Kuliner, Mojosari",surabaya,Aneka nasi,Nasi Goreng Jawa,19200,
+A619,"Q5 Steak, Krian",surabaya,Ayam & bebek/Seafood/daging,Beef Patty Steak,30000,Sajian Olahan Daging Steak Yang Di Panggang Dipadukan Dengan Saos Steak disajikan Dengan Kentang Dan Sayuran
+A620,Quita Cafe,surabaya,Jajanan/Minuman,Risol Mayo,14000,
+A621,"Raja Bebek, Arjuna",surabaya,Ayam & bebek/Seafood/daging,Nasi Bebek Goreng Paha Sambel Bawang,29000,Nasi+Bebek Goreng+Kremesan+Lalapan+Sambal Bawang
+A622,Rakoes Mulyorejo,surabaya,Aneka nasi,Nasi Goreng Ayam Geprek,22500,Nasi Goreng Pedas Dengan Topping Ayam Geprek Dan Rasa Khas Sambal Bawang
+A623,Robakus Pahlawan,surabaya,Jajanan/Minuman,Roti Bakar Puff Pastry Durian,24000,Roti original dengan selai durian dan puff pastry di dalamnya
+A624,"Rocket Chicken, Gresik",surabaya,Ayam & bebek/Seafood/daging,Geprek Paha Bawah,15000,(Tanpa nasi)
+A625,"Sang Pisang, Surabaya",surabaya,Jajanan/Minuman,Naget Chocolate,30000,Naget Pisang dibalut dengan Chocalate. XToping : Cheese/Almond/Peanut/Milo/Koko Crunch/Oreo
+A626,"Sari Rasa, Mojosari",surabaya,Bakmi/bakso/soto,Nasi Goreng,30000,Nasi goreng dengan telur dan ayam
+A627,"Satria Roti, Kartini",surabaya,Roti,Choco Bites Dark Chocolate - Hampers,100000,20x10 cm. Bisa Request Ucapan Di Kartu. Cocok Untuk Hampers Semua Acara.
+A628,"Satria Roti, Wiyung",surabaya,Roti,Choco Bites Dark Chocolate - Hampers,100000,20x10 cm. Bisa Request Ucapan Di Kartu. Cocok Untuk Hampers Semua Acara.
+A629,"Seafood Narako, Gubeng",surabaya,Ayam & bebek/Seafood/daging,Paket Large Kepiting ( 2 Orang ),108000,Kepiting Kerang Udang Cumi 2nasi 2minun
+A630,SEBLAK BANDUNG 86,surabaya,Jajanan/Minuman,Seblak Ceria 1,15000,"Kerupuk,pentol,sosis,Tempura Tofu,telor Orak Arik,mie,sayur Sawi Hijau/sawi Putih"
+A631,SEBLAK BANDUNG NETIZEN,surabaya,Jajanan/Minuman,Seblak Spesial Ceker Empuk,28500,"LV 1-10, Isian Lengkap Yaitu Telor Orak-arik,Sawi Daging,Sawi Putih, Telur puyuh , Sosis Potong, Bakso Daging,Scallop Premium,Bakso Ikan, Bintang Potong,Kerupuk Basah,Dan Mie"
+A632,"Seblak Bundaa, Wonoayu",surabaya,Jajanan/Minuman,Seblak Mie Kering,10000,Mie + Baso (Lv 1-5)
+A633,SEBLAK GACOR,surabaya,Jajanan/Minuman,Seblak Sosis Level 1-3,16500,"Krupuk, makroni,sawi,telor,cilok2bj,sosis"
+A634,"Seblak Gobyos, Jemursari",surabaya,Jajanan/Minuman,Seblak Biasa,14500,"Kerupuk, Kwetiaw/Mie, Telur,Siomay Mini"
+A635,"Seblak Gobyos, Sedati",surabaya,Jajanan/Minuman,Seblak Sayap,25000,Seblak Dgn Isi Krupuk Telor Dan Topping Dua Sayap. Enak Sekali Di Nikmati Krn Sayap Yg Empuk Dan Byk Daging Ayam Nya
+A636,Seblak Radja Sukodono,surabaya,Jajanan/Minuman,Seblak Suki Seafood Special,22000,Seafood Special
+A637,Semangkok Rempah,surabaya,Aneka nasi,Nasi Ayam Krengsengan Lengkap,39500,nasi gurih + ayam krengsengan + telur ceplok + kerupuk + kremesan
+A638,"SEPASI CAFE, Gayungan",surabaya,Aneka nasi,Combo A,35000,Coffee latte + classic fried egg
+A639,Signora Pasta,surabaya,Barat,Fusilli Al Tonno,67200,Fusilli Pasta Served With Chunks Of Tuna And Onions
+A640,Sinbad Kebab & Burger,surabaya,Jajanan/Minuman,Kebab Beef,25000,"Kebab Yang Berisi Daging Sapi, Sayuran Lettuce, Dengan Saos Tomat, Saos Sambal Dan Mayonaise"
+A641,Sioke Siobak ADAM,surabaya,Aneka nasi,Siobak Asin + Manis Per Seperempat Kg(250gr),175000,Siobak Asin Campur Jasio Merah 250 Gr
+A642,"Sistersfood, Purworejo",surabaya,Ayam & bebek/Seafood/daging,Nasi + Ayam Kremes,16500,
+A643,Slea Kitchen,surabaya,Aneka nasi,Nasi Bakmoy Ayam,18500,Nasi+ayam Bakmoy+telur Kecap1/2+ Kaldu Ayam+petis Sambel+kerupuk+bawang Daun+bawang Goreng
+A644,Sosis Bakar KN,surabaya,Jajanan/Minuman,Sosis Bakar Jumbo,15000,"1 Porsi Dapat 1 Tusuk Sosis Bakar Jumbo Dg Toping Saos Tomat, Sambal, Mayonaise"
+A645,"So Young, Sambikerep",surabaya,Jajanan/Minuman,Original 3 pcs,34000,
+A646,"Spikoe Lusiana, Rungkut",surabaya,Jajanan/Minuman,Lapis Surabaya Lusiana,67500,"Lapis Surabaya Dgn Rasa Original Dan Tekstur Yg Lembut Dan Enak, Dengan Selai Strawberry. Dibuat Dengan Bahan Pilihan. Ukuran 8x25cm"
+A647,"StepUp Donut, Mulyorejo",surabaya,Jajanan/Minuman,Paket Basic 6 Pcs,73500,Pilih 6 Donut Basic
+A648,"Street Food, Deltasari",surabaya,Jajanan/Minuman,Yakiniku Beef Bowl,30000,Nasi dengan daging rasanya yang manis gurih
+A649,Subsidi,surabaya,Aneka nasi,Nasi Goreng,16800,"Nasi Goreng ala Subsidi, Sedikit Pedas, Tidak Bisa Request"
+A650,Suka Kepiting,surabaya,Ayam & bebek/Seafood/daging,MATRE 2,111000,"Udang Sambal, Kerang Hijau, 2 Nasi"
+A651,"Sushikun, BG Junction",surabaya,Ayam & bebek/Seafood/daging,Paket Ichi-KUN,130000,
+A652,"Sushikun, Royal Plaza",surabaya,Jajanan/Minuman,Paket Ichi-KUN,130000,
+A653,Susu Kocok Kita,surabaya,Jajanan/Minuman,Susu Kocok Boba  Vanila Latte Pembelian 3 Free 1 Ukuran 14oz,10000,Susu Kental Manis + Es Batu + Susu
+A654,"Suweger, Ngelom",surabaya,Jajanan/Minuman,Lovely Choco Berry L,23350,Menu Perpaduan Campuran Strawberry Dengan Coklat + Ice Cream Dengan Cita Rasa Asam Manis! Kombinasi Yang Super Pas Untuk Membuat Harimu Menyenangkan Disajikan Dengan Gelas 22oz
+A655,"Suweger, Tropodo",surabaya,Jajanan/Minuman,Lovely Choco Berry L,23350,Menu Perpaduan Campuran Strawberry Dengan Coklat + Ice Cream Dengan Cita Rasa Asam Manis! Kombinasi Yang Super Pas Untuk Membuat Harimu Menyenangkan Disajikan Dengan Gelas 22oz
+A656,"Suweger, Wiyung",surabaya,Jajanan/Minuman,Lovely Choco Berry L,23350,Menu Perpaduan Campuran Strawberry Dengan Coklat + Ice Cream Dengan Cita Rasa Asam Manis! Kombinasi Yang Super Pas Untuk Membuat Harimu Menyenangkan Disajikan Dengan Gelas 22oz
+A657,Tahu Go! Manyar,surabaya,Jajanan/Minuman,Tahu 5 Pcs,10000,Tahu kriuknya bikin nagih! Isi 5 pcs
+A658,Talk Kopi Kalasan,surabaya,Jajanan/Minuman,Cocoffee Aren,21000,Kopi Susu Rasa Kelapa dengan Gula Aren dan Dawet
+A659,"Tea Break, Tambaksari",surabaya,Jajanan/Minuman,Milk Tea,13000,
+A660,"Tea Break, Tenggilis",surabaya,Jajanan/Minuman,Milk Tea,13000,
+A661,"TEH OCA, Jedong Cangring",surabaya,Jajanan/Minuman,Teh Vanila Besar,5000,Teh Rasa Vanila Dengan Gelas Besar
+A662,THESTOCKSHOP,surabaya,Jajanan/Minuman,Wagyu Truffle Burger,59000,Come With French Fries
+A663,"Toby's, Tenggilis",surabaya,Ayam & bebek/Seafood/daging,Hemat 2 Cheese,24500,Ayam Crispy Sayap/Paha Bawah + Nasi Putih + Sauce Cheese
+A664,"Toby's, Wiyung",surabaya,Ayam & bebek/Seafood/daging,Hemat 2 Cheese,24500,Ayam Crispy Sayap/Paha Bawah + Nasi Putih + Sauce Cheese
+A665,"Traffic Bun, Bawean",surabaya,Barat,PAKET PAMER 1 : Black Montana Burger With Egg + Boston Cheese Burger + Coca Cola,105000,"Tambahan potongan 25K saat checkout, pake Gopay.  Paket Pamer 1"
+A666,"Tritara Coffee, Gubeng",surabaya,Jajanan/Minuman,Kebab Frozen,61500,Berisi Daging. Keju Cheddar. Saos Pelengkap(8 pcs)
+A667,"Truffle Belly, Gwalk",surabaya,Ayam & bebek/Seafood/daging,Truffle Chicken Spicy Mentai NEKAD,41000,Ayam Goreng Renyah dengan Aroma Truffle yang Unik Dikombinasikan Dengan Saus Spicy Mentai Yang Super Pedas Disajikan Dengan Nasi Putih Hangat
+A668,Truffle Belly Metropolis,surabaya,Ayam & bebek/Seafood/daging,Truffle Chicken Spicy Mentai NEKAD,41000,Ayam Goreng Renyah dengan Aroma Truffle yang Unik Dikombinasikan Dengan Saus Spicy Mentai Yang Super Pedas Disajikan Dengan Nasi Putih Hangat
+A669,Warkop 4D Qyuuu,surabaya,Ayam & bebek/Seafood/daging,Nasi ayam Geprek Original,13000,Nasi ayam Geprek Original
+A670,WARMINDO CJDW,surabaya,Bakmi/bakso/soto,MIE Original Cjdw 2 Bungkus + Telur,17000,Pilih Level 0-5 + Indomie Goreng Dengan Tambahan Racikan rempah-rempah+Telor+Sayur dan Krupuk Pangsit
+A671,"Waroeng Redjo, Sidoarjo",surabaya,Ayam & bebek/Seafood/daging,Ayam Bakar Kecap,59500,Ayam Bakar dibakar dengan Kecap
+A672,"WarPAS, Comunale",surabaya,Ayam & bebek/Seafood/daging,INTEL,12500,Indomie + Telor
+A673,"Warung Barokah, Gubeng",surabaya,Aneka nasi,French Fries Bumbu,9000,French Fries Bumbu Balado/keju/BBQ
+A674,"Warung Kongdhe, Bubutan",surabaya,Aneka nasi,Nasi Madura Laut,32000,"Nasi , Mie , Serundeng , Cumi, Tongkol , Udang Crispy, Sambel Pencit"
+A675,WARUNG MBAKNET,surabaya,Jajanan/Minuman,BASO ACI LEMAK FROZEN,10000,Pentol Aci berisi Lemak
+A676,"Warung Mentok, Gayungsari",surabaya,Aneka nasi,Nasi Bebek Goreng,30000,
+A677,Warung Pindo,surabaya,Aneka nasi,Capcay Spesial,33750,
+A678,Warung Sego BHS,surabaya,Aneka nasi,Nasi Campur,18000,Nasi ayam krengeng..krengseng daging..bali tahu..tempe kering.telur..mie..sambel bhs
+A679,"Warung Wader, Pahlawan",surabaya,Aneka nasi,Nasi Wader,20000,Nasi + Ikan Wader + Lalapan + Sambal
+A680,"Wingstop, Jemursari",surabaya,Ayam & bebek/Seafood/daging,Flavor Saver,148799,8 Crunchy Wings + 8 Boneless Wings
+A681,"Wong Soeroboyo, PTC",surabaya,Aneka nasi,Nasi Pecel/Urap Ayam Kampung,25000,
+A682,"XIBOBA, SDO Gedangan",surabaya,Jajanan/Minuman,Crunchy Signature Kakao,21000,"Cadburry chocolate milk dipadukan dengan chocolate sauce, cream cheese dan crunchy chocolate crumbs"
+A683,"XIBOBA, Tenggilis Surabaya",surabaya,Jajanan/Minuman,Crunchy Signature Kakao,21000,"Cadburry chocolate milk dipadukan dengan chocolate sauce, cream cheese dan crunchy chocolate crumbs"
+A684,"XIBOBA, Tunjungan Plaza",surabaya,Jajanan/Minuman,Crunchy Signature Kakao,21000,"Cadburry chocolate milk dipadukan dengan chocolate sauce, cream cheese dan crunchy chocolate crumbs"
+A685,"Yasaka Fried Chicken, Sukolegok",surabaya,Jajanan/Minuman,Promo Opening Cuman 10 Ribu Dapat 1 Ayam Crispy Yasaka Free Nasi,10000,Promo 1 Ayam Crispy Free Nasi Cuman 10 Ribu
+A686,"Yakini, Krian",surabaya,Bakmi/bakso/soto,ICE GREEN TEA,11000,Perpaduan Tea Autentic Dan Susu (Gelas Jumbo)
+A687,"Zeger!, Sidoarjo",surabaya,Bakmi/bakso/soto,Brown Sugar Boba Fresh Milk,18900,Nikmatnya rasa susu segar dan gula aren dipadu dengan rasa boba yang enak dan kenyal dijamin ketagihan hauzzz ? Zeger in aja
